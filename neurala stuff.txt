@@ -1,0 +1,11 @@
+575 dobrych tie sa do toho hodia
+460 pouzilo na trening
+115 na testing
+toto trva pol hodina, maju nejaku optimizaciu
+potom 150 z test data to testovalo - 3 minuty
+(prvych)
+
+ak su vysledky neni dobre tak to sa stalci optimize tlacitko a to trva dlho podla toho kolko tam je obrazkov
+bez grafiky :DD ????
+
+svietit svetlo pod velmi ostrym uhlom - nerovnosti budu vrhat tien

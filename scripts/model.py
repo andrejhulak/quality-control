@@ -1,6 +1,7 @@
 from typing import Tuple
 import torch
 from torch.nn import Softmax
+import os, json
 
 softmax = Softmax(dim=1)
 
@@ -97,3 +98,15 @@ def train(model: torch.nn.Module,
     results["test_acc"].append(test_acc)
 
   return results
+
+
+def save_models(model, model_config, save_dir):
+  if not os.path.exists(save_dir):
+    os.makedirs(save_dir)
+
+  sequence_config_path = os.path.join(save_dir, "model_config.json")
+  with open(sequence_config_path, "w") as f:
+    json.dump(model_config, f)
+
+  sequence_model_path = os.path.join(save_dir, "model.pth")
+  torch.save(model.state_dict(), sequence_model_path)

@@ -6,7 +6,7 @@ from torchvision.transforms import v2
 import torch
 
 preprocess = v2.Compose([
-    v2.Resize(256),
+    v2.Resize(64),
     # transforms.CenterCrop(224),
     v2.ToDtype(torch.float32, scale=True)
     # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
@@ -15,7 +15,7 @@ preprocess = v2.Compose([
 # note for self, no idea what these normalize transforms do, but oh well
 
 class ImageDataset(Dataset):
-  def __init__(self, annotations_file, img_dir, set_type='train', transform=preprocess, target_transform=None):
+  def __init__(self, annotations_file, img_dir, set_type, transform=preprocess, target_transform=None):
     self.img_labels = pd.read_csv(annotations_file)
     self.img_labels = self.img_labels[self.img_labels['set_type'] == set_type].reset_index(drop=True)
     self.img_dir = img_dir
