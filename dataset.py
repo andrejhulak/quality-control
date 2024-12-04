@@ -6,7 +6,7 @@ from torchvision.transforms import v2
 import torch
 
 preprocess = v2.Compose([
-    v2.Resize(64),
+    v2.Resize(128),
     # transforms.CenterCrop(224),
     v2.ToDtype(torch.float32, scale=True)
     # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
