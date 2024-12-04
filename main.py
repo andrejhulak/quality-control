@@ -10,6 +10,7 @@ from vit_pytorch.recorder import Recorder
 from vit_pytorch.extractor import Extractor
 
 # use segmentation techniques
+# how???
 
 # remember that neurala did it for first 500 and first 100
 
@@ -18,7 +19,7 @@ if __name__ == '__main__':
   annotations_file = 'casting_data/annotations.csv'
 
   BATCH_SIZE = 32
-  num_epochs = 1
+  num_epochs = 10
 
   ds_train = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='train')
   ds_test = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='test')
@@ -43,26 +44,18 @@ if __name__ == '__main__':
     positional_embedding = 'learnable', # ['sine', 'learnable', 'none']
 )
           
-  # pytorch_total_params = sum(p.numel() for p in model.parameters())
-  # print(pytorch_total_params)
+  pytorch_total_params = sum(p.numel() for p in model.parameters())
+  print(pytorch_total_params)
 
-  # optimizer = torch.optim.Adam(params=model.parameters(), lr=0.001)
-  # loss_fn = torch.nn.CrossEntropyLoss()
+  optimizer = torch.optim.Adam(params=model.parameters(), lr=0.001)
+  loss_fn = torch.nn.CrossEntropyLoss()
   
-  # results = train(model=model,
-  #                 train_dataloader=dl_train,
-  #                 test_dataloader=dl_test,
-  #                 optimizer=optimizer,
-  #                 loss_fn=loss_fn,
-  #                 epochs=num_epochs,
-  #                 device='cpu')
+  results = train(model=model,
+                  train_dataloader=dl_train,
+                  test_dataloader=dl_test,
+                  optimizer=optimizer,
+                  loss_fn=loss_fn,
+                  epochs=num_epochs,
+                  device='cpu')
 
-  # y_true = 
-
-  model = Recorder(model)
-  test = torch.randn(1, 3, 64, 64) 
-  result, attention = model(test)
-  print(attention.shape)
-
-  # y_pred = test_step(model, dl_test, loss_fn=loss_fn, device='cpu')
-
+  print(results)
