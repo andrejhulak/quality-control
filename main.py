@@ -17,7 +17,7 @@ if __name__ == '__main__':
   annotations_file = 'linsen_data/annotations.csv'
 
   BATCH_SIZE = 32
-  num_epochs = 10
+  num_epochs = 5
 
   ds_train = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='train')
   ds_test = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='test')
@@ -25,46 +25,78 @@ if __name__ == '__main__':
   dl_train = DataLoader(ds_train, batch_size=BATCH_SIZE, shuffle=True)
   dl_test = DataLoader(ds_test, batch_size=BATCH_SIZE, shuffle=False)
 
+  # model_config = {
+  #   'img_size' : (128, 128),
+  #   'embedding_dim' : 32,
+  #   'n_conv_layers' : 2,
+  #   'kernel_size' : 7,
+  #   'stride' : 2,
+  #   'padding' : 3,
+  #   'pooling_kernel_size' : 3,
+  #   'pooling_stride' : 2,
+  #   'pooling_padding' : 1,
+  #   'num_layers' : 4,
+  #   'num_heads' : 4,
+  #   'mlp_ratio' : 3.,
+  #   'num_classes' : 2,
+  #   'positional_embedding' : 'learnable'
+  #   }
+
+  # model = CCT(
+  #   img_size = model_config['img_size'],
+  #   embedding_dim = model_config['embedding_dim'],
+  #   n_conv_layers = model_config['n_conv_layers'],
+  #   kernel_size = model_config['kernel_size'],
+  #   stride = model_config['stride'],
+  #   padding = model_config['padding'],
+  #   pooling_kernel_size = model_config['pooling_kernel_size'],
+  #   pooling_stride = model_config['pooling_stride'],
+  #   pooling_padding = model_config['pooling_padding'],
+  #   num_layers = model_config['num_layers'],
+  #   num_heads = model_config['num_heads'],
+  #   mlp_ratio = model_config['mlp_ratio'],
+  #   num_classes = model_config['num_classes'],
+  #   positional_embedding = model_config['positional_embedding']
+  # )
+
+  image_size = 128
+  patch_size = 32
+  num_classes = 2
+  dim = 4
+  depth = 4
+  heads = 4
+  mlp_dim = 128
+  dropout = 0.01
+  emb_dropout = 0.01
+  
   model_config = {
-    'img_size' : (128, 128),
-    'embedding_dim' : 32,
-    'n_conv_layers' : 2,
-    'kernel_size' : 7,
-    'stride' : 2,
-    'padding' : 3,
-    'pooling_kernel_size' : 3,
-    'pooling_stride' : 2,
-    'pooling_padding' : 1,
-    'num_layers' : 4,
-    'num_heads' : 4,
-    'mlp_ratio' : 3.,
-    'num_classes' : 2,
-    'positional_embedding' : 'learnable'
+    'image_size' : image_size,
+    'patch_size' : patch_size,
+    'num_classes' : num_classes,
+    'dim' : dim,
+    'depth' : depth,
+    'heads' : heads,
+    'mlp_dim' : mlp_dim,
+    'dropout' : dropout,
+    'emb_dropout' : emb_dropout
     }
+  
+  model = ViT(image_size = image_size,
+              patch_size = patch_size,
+              num_classes = num_classes,
+              dim = dim,
+              depth = depth,
+              heads = heads,
+              mlp_dim = mlp_dim,
+              dropout = dropout,
+              emb_dropout = emb_dropout)
 
-  model = CCT(
-    img_size = model_config['img_size'],
-    embedding_dim = model_config['embedding_dim'],
-    n_conv_layers = model_config['n_conv_layers'],
-    kernel_size = model_config['kernel_size'],
-    stride = model_config['stride'],
-    padding = model_config['padding'],
-    pooling_kernel_size = model_config['pooling_kernel_size'],
-    pooling_stride = model_config['pooling_stride'],
-    pooling_padding = model_config['pooling_padding'],
-    num_layers = model_config['num_layers'],
-    num_heads = model_config['num_heads'],
-    mlp_ratio = model_config['mlp_ratio'],
-    num_classes = model_config['num_classes'],
-    positional_embedding = model_config['positional_embedding']
-  )
-
-  model.load_state_dict(torch.load('models/cct/model.pth', weights_only=True))
+  model.load_state_dict(torch.load('models/vit/model.pth', weights_only=True))
           
   pytorch_total_params = sum(p.numel() for p in model.parameters())
   print(pytorch_total_params)
 
-  optimizer = torch.optim.Adam(params=model.parameters(), lr=0.0001)
+  optimizer = torch.optim.Adam(params=model.parameters(), lr=0.001)
   loss_fn = torch.nn.CrossEntropyLoss()
 
   accuracy = test_step(model, dl_test, loss_fn, 'cpu')[1]
@@ -79,4 +111,4 @@ if __name__ == '__main__':
   #                 epochs=num_epochs,
   #                 device='cpu')
 
-  # save_model(model=model, model_config=model_config, save_dir='models/cct')
+  # save_model(model=model, model_config=model_config, save_dir='models/vit2')
