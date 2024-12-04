@@ -12,11 +12,9 @@ from vit_pytorch.extractor import Extractor
 # use segmentation techniques
 # how???
 
-# remember that neurala did it for first 500 and first 100
-
 if __name__ == '__main__':
-  img_dir = 'casting_data'
-  annotations_file = 'casting_data/annotations.csv'
+  img_dir = 'linsen_data'
+  annotations_file = 'linsen_data/annotations.csv'
 
   BATCH_SIZE = 32
   num_epochs = 10
@@ -57,5 +55,3 @@ if __name__ == '__main__':
                   loss_fn=loss_fn,
                   epochs=num_epochs,
                   device='cpu')
-
-  print(results)
