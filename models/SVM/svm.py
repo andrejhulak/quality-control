@@ -11,11 +11,22 @@ from sklearn.metrics import classification_report, accuracy_score
 import numpy as np
 from PIL import Image
 
-# Define the custom dataset class
+# Modify the ImageDataset to accept a filter for set_type
 class ImageDataset(Dataset):
-    def __init__(self, annotations_file, img_dir, transform=None):
+    def __init__(self, annotations_file, img_dir, set_type, transform=None):
+        """
+        Initializes the dataset.
+        
+        Parameters:
+        - annotations_file: Path to the CSV file containing annotations.
+        - img_dir: Directory containing the images.
+        - set_type: 'train' or 'test' to filter data based on the set_type column.
+        - transform: Transformations to apply to the images.
+        """
+        # Load the annotations and filter by set_type
         self.annotations = pd.read_csv(annotations_file)
-        self.img_dir = img_dir  # No set_type appending
+        self.annotations = self.annotations[self.annotations['set_type'] == set_type]
+        self.img_dir = img_dir
         self.transform = transform or transforms.Compose([
             transforms.Resize((224, 224)),
             transforms.ToTensor(),
@@ -40,16 +51,15 @@ class ImageDataset(Dataset):
         return image, label
 
 # Paths and parameters
-img_dir = '../../casting_data'
-annotations_file = '../../casting_data/annotations.csv'
-
+annotations_file = '../../boat_data_lisa/annotations.csv'
+img_dir = '../../boat_data_lisa'
 BATCH_SIZE = 32
 
-# Prepare datasets and dataloaders
-ds_train = ImageDataset(annotations_file=annotations_file, img_dir=img_dir)
-ds_test = ImageDataset(annotations_file=annotations_file, img_dir=img_dir)
+# Create datasets for training and testing
+ds_train = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='train')
+ds_test = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='test')
 
-
+# Create dataloaders
 dl_train = DataLoader(ds_train, batch_size=BATCH_SIZE, shuffle=True)
 dl_test = DataLoader(ds_test, batch_size=BATCH_SIZE, shuffle=False)
 
@@ -132,10 +142,10 @@ def predict(image_path, resnet50, svm_model):
     return prediction
 
 # Load the saved SVM model
-loaded_svm_model = joblib.load("svm_model.pkl")
-print("SVM model loaded for inference.")
+#loaded_svm_model = joblib.load("svm_model.pkl")
+#print("SVM model loaded for inference.")
 
 # Example: Inference on a new image
-new_image_path = "../../casting_data/test/ok_front/cast_ok_0_1203.jpeg"  # Replace with your image path
-prediction = predict(new_image_path, resnet50, loaded_svm_model)
-print(f"Prediction for {new_image_path}: {prediction[0]}")
+#new_image_path = "../../casting_data/test/ok_front/cast_ok_0_1203.jpeg"  # Replace with your image path
+#prediction = predict(new_image_path, resnet50, loaded_svm_model)
+#print(f"Prediction for {new_image_path}: {prediction[0]}")
