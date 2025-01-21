@@ -6,9 +6,9 @@ from torchvision import datasets, transforms
 import matplotlib.pyplot as plt
 import numpy as np
 from tqdm import tqdm
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
+from sklearn.metrics import accuracy_score, classification_report, precision_score, recall_score, f1_score, confusion_matrix
 import seaborn as sns
-from sklearn.model_selection import train_test_split
+
 
 
 class VariationalAutoEncoder(nn.Module):
@@ -98,30 +98,10 @@ transform = transforms.Compose([
     transforms.ToTensor(),
 ])
 
-dataset_path = 'Images'  # Adjust the dataset path
-allowed_classes = ['good', 'bad']
-filtered_dataset = FilteredDataset(dataset_path, transform, allowed_classes)
-dataloader = DataLoader(filtered_dataset, batch_size=16, shuffle=True)
+dataset_path = 'quality-control/linsen_data'  # Adjusted dataset path to reflect new structure
 
-
-good_dataset = FilteredDataset(dataset_path, transform, allowed_classes=['good'])
-bad_dataset = FilteredDataset(dataset_path, transform, allowed_classes=['bad'])
-
-# Split good images into train (80%) and test (20%)
-good_indices = list(range(len(good_dataset)))
-train_good_indices, test_good_indices = train_test_split(good_indices, test_size=0.2, random_state=42)
-train_good_subset = Subset(good_dataset, train_good_indices)
-test_good_subset = Subset(good_dataset, test_good_indices)
-
-# Split bad images into 80% for training and 20% for testing
-bad_indices = list(range(len(bad_dataset)))
-train_bad_indices, test_bad_indices = train_test_split(bad_indices, test_size=0.2, random_state=42)
-train_bad_subset = Subset(bad_dataset, train_bad_indices)
-test_bad_subset = Subset(bad_dataset, test_bad_indices)
-
-# Combine 
-train_dataset = torch.utils.data.ConcatDataset([train_good_subset, train_bad_subset])
-test_dataset = torch.utils.data.ConcatDataset([test_good_subset, test_bad_subset])
+train_dataset = datasets.ImageFolder(root=f"{dataset_path}/train", transform=transform)
+test_dataset = datasets.ImageFolder(root=f"{dataset_path}/test", transform=transform)
 
 train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True)
 test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False)
@@ -151,14 +131,13 @@ for epoch in range(epochs):
 torch.save(model.state_dict(), 'vae_model.pth')
 
 
-# Testing Loop
 def test_vae_classification(model, test_dataloader, device):
     model.eval()
     y_true, y_pred = [], []
     for data, labels in test_dataloader:
         data, labels = data.to(device), labels.to(device)
         with torch.no_grad():
-            x_reconstructed, _, _, class_output = model(data)
+            _, _, _, class_output = model(data) 
         _, predicted = torch.max(class_output, 1)
         y_true.extend(labels.cpu().numpy())
         y_pred.extend(predicted.cpu().numpy())
@@ -170,10 +149,10 @@ def test_vae_classification(model, test_dataloader, device):
     return accuracy, precision, recall, f1, y_true, y_pred
 
 
+
 accuracy, precision, recall, f1, y_true, y_pred = test_vae_classification(model, test_dataloader, device)
 print(f"Test Accuracy: {accuracy:.4f}")
 print(f"Precision: {precision:.4f}, Recall: {recall:.4f}, F1-Score: {f1:.4f}")
-
 
 # Generate confusion matrix
 cm = confusion_matrix(y_true, y_pred)
@@ -186,34 +165,8 @@ plt.xlabel('Predicted')
 plt.title('Confusion Matrix')
 plt.show()
 
+# Generate classification report
+report = classification_report(y_true, y_pred, target_names=['Bad', 'Good'])
+print("Classification Report:\n")
+print(report)
 
-# Generate Attention Heatmap
-def generate_attention_heatmap(model, data, target_class=1):
-    model.eval()
-    data = data.unsqueeze(0).to(device)  # Add batch dimension and move to device
-    with torch.no_grad():
-        _, _, _, class_output = model(data)
-        heatmap = class_output[0, target_class].cpu().numpy()
-    return heatmap
-
-
-# Visualizing attention heatmap for the first image in the test set
-data, labels = next(iter(test_dataloader))
-image = data[0]  # First image in batch
-heatmap = generate_attention_heatmap(model, image)
-
-# Plotting the image and heatmap
-plt.figure(figsize=(12, 6))
-plt.subplot(1, 2, 1)
-plt.imshow(np.transpose(image.numpy(), (1, 2, 0)))
-plt.axis('off')
-plt.title('Original Image')
-
-plt.subplot(1, 2, 2)
-plt.imshow(np.transpose(image.numpy(), (1, 2, 0)))
-plt.imshow(heatmap, alpha=0.5, cmap='jet')
-plt.axis('off')
-plt.title('Attention Heatmap')
-
-plt.tight_layout()
-plt.show()
