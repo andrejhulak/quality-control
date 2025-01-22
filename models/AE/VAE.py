@@ -1,10 +1,9 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torch.utils.data import DataLoader, Dataset, Subset
+from torch.utils.data import DataLoader, Dataset
 from torchvision import datasets, transforms
 import matplotlib.pyplot as plt
-import numpy as np
 from tqdm import tqdm
 from sklearn.metrics import accuracy_score, classification_report, precision_score, recall_score, f1_score, confusion_matrix
 import seaborn as sns
@@ -12,7 +11,7 @@ import seaborn as sns
 
 
 class VariationalAutoEncoder(nn.Module):
-    def __init__(self, input_channels=3, z_dim=64, num_classes=2):
+    def __init__(self, input_channels=3, z_dim=128, num_classes=2):
         super().__init__()
 
         # Encoder
@@ -70,11 +69,9 @@ class VariationalAutoEncoder(nn.Module):
         return x_reconstructed, mu, log_var, class_output
 
 
-def vae_with_classification_loss(x_reconstructed, x, mu, log_var, class_output, labels, beta=0.01):
-    reconstruction_loss = nn.MSELoss()(x_reconstructed, x)
-    kl_divergence = -0.5 * torch.mean(1 + log_var - mu.pow(2) - log_var.exp())
+def classifier_head_loss(class_output, labels):
     classification_loss = nn.CrossEntropyLoss()(class_output, labels)
-    return reconstruction_loss + beta * kl_divergence + classification_loss
+    return classification_loss
 
 
 class FilteredDataset(Dataset):
@@ -98,7 +95,7 @@ transform = transforms.Compose([
     transforms.ToTensor(),
 ])
 
-dataset_path = 'quality-control/linsen_data'  # Adjusted dataset path to reflect new structure
+dataset_path = 'quality-control/linsen_data' 
 
 train_dataset = datasets.ImageFolder(root=f"{dataset_path}/train", transform=transform)
 test_dataset = datasets.ImageFolder(root=f"{dataset_path}/test", transform=transform)
@@ -108,19 +105,19 @@ test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False)
 
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = VariationalAutoEncoder(input_channels=3, z_dim=64, num_classes=2).to(device)
+model = VariationalAutoEncoder(input_channels=3, z_dim=128, num_classes=2).to(device)
 optimizer = optim.Adam(model.parameters(), lr=1e-4)
 
-# Training Loop
-epochs = 50
+
+epochs = 10
 for epoch in range(epochs):
     model.train()
     running_loss = 0.0
     for data, labels in tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{epochs}", unit="batch"):
         data, labels = data.to(device), labels.to(device)
         optimizer.zero_grad()
-        x_reconstructed, mu, log_var, class_output = model(data)
-        loss = vae_with_classification_loss(x_reconstructed, data, mu, log_var, class_output, labels)
+        _, _, _, class_output = model(data)
+        loss = classifier_head_loss(class_output, labels) 
         loss.backward()
         optimizer.step()
         running_loss += loss.item()
