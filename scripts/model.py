@@ -11,6 +11,7 @@ def train_step(model: torch.nn.Module,
                optimizer: torch.optim.Optimizer,
                device: torch.device) -> Tuple[float, float]:
   model.train()
+  model.to(device)
 
   train_loss, train_acc = 0, 0
 
@@ -40,6 +41,7 @@ def test_step(model: torch.nn.Module,
               loss_fn: torch.nn.Module,
               device: torch.device) -> Tuple[float, float]:
   model.eval()
+  model.to(device)
 
   test_loss, test_acc = 0, 0
 

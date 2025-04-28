@@ -12,8 +12,6 @@ preprocess = v2.Compose([
     # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
 ])
 
-# note for self, no idea what these normalize transforms do, but oh well
-
 class ImageDataset(Dataset):
   def __init__(self, annotations_file, img_dir, set_type, transform=preprocess, target_transform=None):
     self.img_labels = pd.read_csv(annotations_file)

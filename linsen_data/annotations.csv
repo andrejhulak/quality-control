@@ -1,1751 +1,1655 @@
 file_path,label,set_type
-train/not-good/slice035_011.png,1,train
-train/not-good/slice001_015.png,1,train
-train/not-good/Slice_Bad (269).png,1,train
-train/not-good/slice032_000.png,1,train
-train/not-good/Slice_Bad (265).png,1,train
-train/not-good/slice024_013.png,1,train
-train/not-good/slice004_000.png,1,train
-train/not-good/Slice_Bad (157).png,1,train
-train/not-good/slice016_003.png,1,train
-train/not-good/Slice_Bad (166).png,1,train
-train/not-good/slice046_008.png,1,train
-train/not-good/Slice_Bad (115).png,1,train
-train/not-good/slice024_012.png,1,train
-train/not-good/Slice_Bad (80).png,1,train
-train/not-good/slice041_003.png,1,train
-train/not-good/slice013_009.png,1,train
-train/not-good/slice048_005.png,1,train
-train/not-good/slice055_015.png,1,train
-train/not-good/slice036_002.png,1,train
-train/not-good/slice041_005.png,1,train
-train/not-good/slice054_005.png,1,train
-train/not-good/slice047_008.png,1,train
-train/not-good/slice048_004.png,1,train
-train/not-good/Slice_Bad (18).png,1,train
-train/not-good/slice020_003.png,1,train
-train/not-good/slice018_002.png,1,train
-train/not-good/Slice_Bad (17).png,1,train
-train/not-good/slice049_011.png,1,train
-train/not-good/Slice_Bad (6).png,1,train
-train/not-good/Slice_Bad (88).png,1,train
-train/not-good/Slice_Bad (151).png,1,train
-train/not-good/slice013_005.png,1,train
-train/not-good/slice020_013.png,1,train
-train/not-good/Slice_Bad (258).png,1,train
-train/not-good/slice049_000.png,1,train
-train/not-good/slice040_004.png,1,train
-train/not-good/slice037_012.png,1,train
-train/not-good/Slice_Bad (169).png,1,train
-train/not-good/slice045_000.png,1,train
-train/not-good/slice035_013.png,1,train
-train/not-good/slice004_013.png,1,train
-train/not-good/slice027_012.png,1,train
-train/not-good/slice025_012.png,1,train
-train/not-good/Slice_Bad (271).png,1,train
-train/not-good/slice019_013.png,1,train
-train/not-good/slice004_005.png,1,train
-train/not-good/slice042_013.png,1,train
-train/not-good/slice005_013.png,1,train
-train/not-good/slice054_013.png,1,train
-train/not-good/slice038_009.png,1,train
-train/not-good/slice009_005.png,1,train
-train/not-good/slice036_003.png,1,train
-train/not-good/slice029_010.png,1,train
-train/not-good/Slice_Bad (185).png,1,train
-train/not-good/slice046_004.png,1,train
-train/not-good/slice027_009.png,1,train
-train/not-good/slice005_001.png,1,train
-train/not-good/slice019_007.png,1,train
-train/not-good/Slice_Bad (221).png,1,train
-train/not-good/Slice_Bad (141).png,1,train
-train/not-good/Slice_Bad (20).png,1,train
-train/not-good/slice045_013.png,1,train
-train/not-good/Slice_Bad (257).png,1,train
-train/not-good/Slice_Bad (52).png,1,train
-train/not-good/Slice_Bad (78).png,1,train
-train/not-good/slice001_006.png,1,train
-train/not-good/slice034_008.png,1,train
-train/not-good/slice012_006.png,1,train
-train/not-good/slice034_004.png,1,train
-train/not-good/slice029_005.png,1,train
-train/not-good/Slice_Bad (198).png,1,train
-train/not-good/slice005_007.png,1,train
-train/not-good/slice000_008.png,1,train
-train/not-good/Slice_Bad (262).png,1,train
-train/not-good/slice005_000.png,1,train
-train/not-good/slice038_006.png,1,train
-train/not-good/slice013_007.png,1,train
-train/not-good/Slice_Bad (199).png,1,train
-train/not-good/slice053_001.png,1,train
-train/not-good/slice045_005.png,1,train
-train/not-good/Slice_Bad (259).png,1,train
-train/not-good/Slice_Bad (244).png,1,train
-train/not-good/Slice_Bad (181).png,1,train
-train/not-good/slice024_007.png,1,train
-train/not-good/Slice_Bad (182).png,1,train
-train/not-good/slice057_014.png,1,train
-train/not-good/slice044_002.png,1,train
-train/not-good/Slice_Bad (123).png,1,train
-train/not-good/slice055_008.png,1,train
-train/not-good/Slice_Bad (31).png,1,train
-train/not-good/slice037_007.png,1,train
-train/not-good/slice053_003.png,1,train
-train/not-good/slice050_008.png,1,train
-train/not-good/Slice_Bad (197).png,1,train
-train/not-good/Slice_Bad (253).png,1,train
-train/not-good/slice042_008.png,1,train
-train/not-good/slice046_015.png,1,train
-train/not-good/Slice_Bad (232).png,1,train
-train/not-good/Slice_Bad (49).png,1,train
-train/not-good/slice053_010.png,1,train
-train/not-good/slice044_009.png,1,train
-train/not-good/Slice_Bad (170).png,1,train
-train/not-good/slice057_008.png,1,train
-train/not-good/Slice_Bad (266).png,1,train
-train/not-good/slice043_008.png,1,train
-train/not-good/slice054_001.png,1,train
-train/not-good/slice044_005.png,1,train
-train/not-good/slice037_013.png,1,train
-train/not-good/slice010_001.png,1,train
-train/not-good/Slice_Bad (178).png,1,train
-train/not-good/slice040_015.png,1,train
-train/not-good/Slice_Bad (230).png,1,train
-train/not-good/Slice_Bad (231).png,1,train
-train/not-good/slice045_001.png,1,train
-train/not-good/slice028_003.png,1,train
-train/not-good/slice003_002.png,1,train
-train/not-good/slice041_009.png,1,train
-train/not-good/slice054_002.png,1,train
-train/not-good/Slice_Bad (37).png,1,train
-train/not-good/slice009_000.png,1,train
-train/not-good/Slice_Bad (46).png,1,train
-train/not-good/Slice_Bad (133).png,1,train
-train/not-good/slice053_002.png,1,train
-train/not-good/slice061_008.png,1,train
-train/not-good/slice002_005.png,1,train
-train/not-good/Slice_Bad (136).png,1,train
-train/not-good/slice060_008.png,1,train
-train/not-good/Slice_Bad (97).png,1,train
-train/not-good/slice053_004.png,1,train
-train/not-good/slice046_014.png,1,train
-train/not-good/slice017_006.png,1,train
-train/not-good/slice043_002.png,1,train
-train/not-good/Slice_Bad (160).png,1,train
-train/not-good/slice034_002.png,1,train
-train/not-good/slice046_013.png,1,train
-train/not-good/slice045_010.png,1,train
-train/not-good/Slice_Bad (65).png,1,train
-train/not-good/slice026_015.png,1,train
-train/not-good/Slice_Bad (116).png,1,train
-train/not-good/slice050_014.png,1,train
-train/not-good/Slice_Bad (4).png,1,train
-train/not-good/slice014_004.png,1,train
-train/not-good/slice020_000.png,1,train
-train/not-good/Slice_Bad (245).png,1,train
-train/not-good/slice012_001.png,1,train
-train/not-good/slice050_001.png,1,train
-train/not-good/Slice_Bad (53).png,1,train
-train/not-good/slice037_009.png,1,train
-train/not-good/slice039_012.png,1,train
-train/not-good/Slice_Bad (226).png,1,train
-train/not-good/Slice_Bad (114).png,1,train
-train/not-good/Slice_Bad (128).png,1,train
-train/not-good/slice018_001.png,1,train
-train/not-good/Slice_Bad (203).png,1,train
-train/not-good/slice010_003.png,1,train
-train/not-good/slice009_001.png,1,train
-train/not-good/Slice_Bad (164).png,1,train
-train/not-good/slice001_001.png,1,train
-train/not-good/slice042_009.png,1,train
-train/not-good/slice049_012.png,1,train
-train/not-good/Slice_Bad (75).png,1,train
-train/not-good/slice038_013.png,1,train
-train/not-good/slice016_006.png,1,train
-train/not-good/slice003_008.png,1,train
-train/not-good/slice009_009.png,1,train
-train/not-good/Slice_Bad (82).png,1,train
-train/not-good/slice047_003.png,1,train
-train/not-good/slice049_004.png,1,train
-train/not-good/Slice_Bad (261).png,1,train
-train/not-good/slice046_009.png,1,train
-train/not-good/slice020_010.png,1,train
-train/not-good/slice044_001.png,1,train
-train/not-good/Slice_Bad (104).png,1,train
-train/not-good/Slice_Bad (155).png,1,train
-train/not-good/Slice_Bad (172).png,1,train
-train/not-good/slice046_007.png,1,train
-train/not-good/slice049_013.png,1,train
-train/not-good/slice058_006.png,1,train
-train/not-good/slice053_011.png,1,train
-train/not-good/Slice_Bad (158).png,1,train
-train/not-good/slice014_011.png,1,train
-train/not-good/slice042_012.png,1,train
-train/not-good/slice057_010.png,1,train
-train/not-good/Slice_Bad (270).png,1,train
-train/not-good/slice014_003.png,1,train
-train/not-good/Slice_Bad (168).png,1,train
-train/not-good/slice045_008.png,1,train
-train/not-good/Slice_Bad (260).png,1,train
-train/not-good/Slice_Bad (200).png,1,train
-train/not-good/Slice_Bad (83).png,1,train
-train/not-good/Slice_Bad (103).png,1,train
-train/not-good/slice014_015.png,1,train
-train/not-good/slice050_011.png,1,train
-train/not-good/slice002_001.png,1,train
-train/not-good/slice004_014.png,1,train
-train/not-good/Slice_Bad (207).png,1,train
-train/not-good/Slice_Bad (117).png,1,train
-train/not-good/Slice_Bad (147).png,1,train
-train/not-good/Slice_Bad (28).png,1,train
-train/not-good/Slice_Bad (15).png,1,train
-train/not-good/slice019_001.png,1,train
-train/not-good/Slice_Bad (240).png,1,train
-train/not-good/Slice_Bad (89).png,1,train
-train/not-good/slice041_004.png,1,train
-train/not-good/Slice_Bad (135).png,1,train
-train/not-good/slice057_011.png,1,train
-train/not-good/slice012_007.png,1,train
-train/not-good/slice002_007.png,1,train
-train/not-good/slice016_014.png,1,train
-train/not-good/slice034_006.png,1,train
-train/not-good/slice048_008.png,1,train
-train/not-good/slice013_000.png,1,train
-train/not-good/slice014_000.png,1,train
-train/not-good/Slice_Bad (189).png,1,train
-train/not-good/slice034_003.png,1,train
-train/not-good/Slice_Bad (263).png,1,train
-train/not-good/slice059_010.png,1,train
-train/not-good/slice028_004.png,1,train
-train/not-good/Slice_Bad (7).png,1,train
-train/not-good/slice015_001.png,1,train
-train/not-good/Slice_Bad (38).png,1,train
-train/not-good/Slice_Bad (27).png,1,train
-train/not-good/Slice_Bad (264).png,1,train
-train/not-good/slice043_014.png,1,train
-train/not-good/Slice_Bad (173).png,1,train
-train/not-good/Slice_Bad (188).png,1,train
-train/not-good/Slice_Bad (162).png,1,train
-train/not-good/Slice_Bad (272).png,1,train
-train/not-good/Slice_Bad (113).png,1,train
-train/not-good/slice043_007.png,1,train
-train/not-good/slice036_015.png,1,train
-train/not-good/slice012_003.png,1,train
-train/not-good/slice047_013.png,1,train
-train/not-good/Slice_Bad (100).png,1,train
-train/not-good/slice027_004.png,1,train
-train/not-good/slice060_009.png,1,train
-train/not-good/slice014_008.png,1,train
-train/not-good/slice043_001.png,1,train
-train/not-good/slice041_007.png,1,train
-train/not-good/Slice_Bad (16).png,1,train
-train/not-good/slice002_008.png,1,train
-train/not-good/Slice_Bad (35).png,1,train
-train/not-good/slice034_001.png,1,train
-train/not-good/slice009_010.png,1,train
-train/not-good/slice050_003.png,1,train
-train/not-good/slice048_013.png,1,train
-train/not-good/slice025_010.png,1,train
-train/not-good/Slice_Bad (134).png,1,train
-train/not-good/slice049_003.png,1,train
-train/not-good/Slice_Bad (107).png,1,train
-train/not-good/slice010_007.png,1,train
-train/not-good/slice047_014.png,1,train
-train/not-good/Slice_Bad (70).png,1,train
-train/not-good/slice057_009.png,1,train
-train/not-good/slice016_005.png,1,train
-train/not-good/Slice_Bad (48).png,1,train
-train/not-good/Slice_Bad (187).png,1,train
-train/not-good/Slice_Bad (102).png,1,train
-train/not-good/slice049_001.png,1,train
-train/not-good/Slice_Bad (91).png,1,train
-train/not-good/Slice_Bad (68).png,1,train
-train/not-good/Slice_Bad (119).png,1,train
-train/not-good/slice041_012.png,1,train
-train/not-good/Slice_Bad (138).png,1,train
-train/not-good/Slice_Bad (194).png,1,train
-train/not-good/Slice_Bad (205).png,1,train
-train/not-good/slice037_005.png,1,train
-train/not-good/slice024_008.png,1,train
-train/not-good/slice015_006.png,1,train
-train/not-good/Slice_Bad (195).png,1,train
-train/not-good/slice054_004.png,1,train
-train/not-good/Slice_Bad (137).png,1,train
-train/not-good/slice002_013.png,1,train
-train/not-good/Slice_Bad (184).png,1,train
-train/not-good/slice043_003.png,1,train
-train/not-good/slice027_007.png,1,train
-train/not-good/slice016_015.png,1,train
-train/not-good/Slice_Bad (220).png,1,train
-train/not-good/slice060_014.png,1,train
-train/not-good/slice009_003.png,1,train
-train/not-good/slice010_009.png,1,train
-train/not-good/Slice_Bad (186).png,1,train
-train/not-good/Slice_Bad (62).png,1,train
-train/not-good/slice009_008.png,1,train
-train/not-good/Slice_Bad (242).png,1,train
-train/not-good/Slice_Bad (36).png,1,train
-train/not-good/slice024_006.png,1,train
-train/not-good/slice046_012.png,1,train
-train/not-good/Slice_Bad (85).png,1,train
-train/not-good/Slice_Bad (127).png,1,train
-train/not-good/Slice_Bad (99).png,1,train
-train/not-good/slice042_002.png,1,train
-train/not-good/Slice_Bad (81).png,1,train
-train/not-good/slice012_010.png,1,train
-train/not-good/Slice_Bad (125).png,1,train
-train/not-good/Slice_Bad (69).png,1,train
-train/not-good/slice020_007.png,1,train
-train/not-good/slice004_006.png,1,train
-train/not-good/slice053_015.png,1,train
-train/not-good/Slice_Bad (243).png,1,train
-train/not-good/slice034_005.png,1,train
-train/not-good/Slice_Bad (132).png,1,train
-train/not-good/slice049_006.png,1,train
-train/not-good/slice015_008.png,1,train
-train/not-good/slice004_007.png,1,train
-train/not-good/slice035_009.png,1,train
-train/not-good/slice049_015.png,1,train
-train/not-good/Slice_Bad (42).png,1,train
-train/not-good/Slice_Bad (67).png,1,train
-train/not-good/slice005_008.png,1,train
-train/not-good/slice012_011.png,1,train
-train/not-good/Slice_Bad (153).png,1,train
-train/not-good/slice020_014.png,1,train
-train/not-good/slice048_009.png,1,train
-train/not-good/slice034_000.png,1,train
-train/not-good/slice035_004.png,1,train
-train/not-good/Slice_Bad (201).png,1,train
-train/not-good/Slice_Bad (148).png,1,train
-train/not-good/slice049_005.png,1,train
-train/not-good/Slice_Bad (229).png,1,train
-train/not-good/slice020_015.png,1,train
-train/not-good/slice050_002.png,1,train
-train/not-good/Slice_Bad (57).png,1,train
-train/not-good/slice041_011.png,1,train
-train/not-good/slice027_008.png,1,train
-train/not-good/slice045_004.png,1,train
-train/not-good/slice014_007.png,1,train
-train/not-good/Slice_Bad (44).png,1,train
-train/not-good/slice002_006.png,1,train
-train/not-good/slice058_005.png,1,train
-train/not-good/Slice_Bad (64).png,1,train
-train/not-good/Slice_Bad (34).png,1,train
-train/not-good/slice016_002.png,1,train
-train/not-good/slice025_009.png,1,train
-train/not-good/Slice_Bad (74).png,1,train
-train/not-good/Slice_Bad (54).png,1,train
-train/not-good/slice011_003.png,1,train
-train/not-good/slice004_011.png,1,train
-train/not-good/Slice_Bad (190).png,1,train
-train/not-good/slice059_004.png,1,train
-train/not-good/slice004_001.png,1,train
-train/not-good/slice053_005.png,1,train
-train/not-good/slice016_001.png,1,train
-train/not-good/Slice_Bad (191).png,1,train
-train/not-good/Slice_Bad (236).png,1,train
-train/not-good/Slice_Bad (175).png,1,train
-train/not-good/slice059_011.png,1,train
-train/not-good/slice044_011.png,1,train
-train/not-good/slice010_002.png,1,train
-train/not-good/slice004_015.png,1,train
-train/not-good/Slice_Bad (140).png,1,train
-train/not-good/slice016_010.png,1,train
-train/not-good/slice057_012.png,1,train
-train/not-good/slice019_006.png,1,train
-train/not-good/Slice_Bad (13).png,1,train
-train/not-good/slice048_000.png,1,train
-train/not-good/Slice_Bad (110).png,1,train
-train/not-good/Slice_Bad (51).png,1,train
-train/not-good/slice044_003.png,1,train
-train/not-good/slice027_001.png,1,train
-train/not-good/slice013_015.png,1,train
-train/not-good/Slice_Bad (249).png,1,train
-train/not-good/slice061_009.png,1,train
-train/not-good/Slice_Bad (176).png,1,train
-train/not-good/slice036_010.png,1,train
-train/not-good/slice057_015.png,1,train
-train/not-good/slice013_001.png,1,train
-train/not-good/slice061_013.png,1,train
-train/not-good/slice032_006.png,1,train
-train/not-good/slice050_009.png,1,train
-train/not-good/Slice_Bad (39).png,1,train
-train/not-good/slice001_007.png,1,train
-train/not-good/slice001_009.png,1,train
-train/not-good/slice010_010.png,1,train
-train/not-good/Slice_Bad (193).png,1,train
-train/not-good/slice036_004.png,1,train
-train/not-good/slice034_011.png,1,train
-train/not-good/slice036_013.png,1,train
-train/not-good/Slice_Bad (98).png,1,train
-train/not-good/Slice_Bad (23).png,1,train
-train/not-good/slice003_001.png,1,train
-train/not-good/Slice_Bad (109).png,1,train
-train/not-good/Slice_Bad (33).png,1,train
-train/not-good/Slice_Bad (149).png,1,train
-train/not-good/Slice_Bad (92).png,1,train
-train/not-good/Slice_Bad (180).png,1,train
-train/not-good/slice003_013.png,1,train
-train/not-good/Slice_Bad (105).png,1,train
-train/not-good/slice045_015.png,1,train
-train/not-good/slice054_015.png,1,train
-train/not-good/slice038_004.png,1,train
-train/not-good/slice020_001.png,1,train
-train/not-good/Slice_Bad (163).png,1,train
-train/not-good/slice044_015.png,1,train
-train/not-good/slice038_012.png,1,train
-train/not-good/slice034_015.png,1,train
-train/not-good/slice050_006.png,1,train
-train/not-good/slice037_015.png,1,train
-train/not-good/slice043_012.png,1,train
-train/not-good/slice018_014.png,1,train
-train/not-good/Slice_Bad (139).png,1,train
-train/not-good/slice017_011.png,1,train
-train/not-good/slice017_007.png,1,train
-train/not-good/Slice_Bad (146).png,1,train
-train/not-good/slice017_003.png,1,train
-train/not-good/slice054_009.png,1,train
-train/not-good/Slice_Bad (212).png,1,train
-train/not-good/slice042_010.png,1,train
-train/not-good/slice045_002.png,1,train
-train/not-good/slice040_012.png,1,train
-train/not-good/Slice_Bad (14).png,1,train
-train/not-good/slice050_005.png,1,train
-train/not-good/slice047_011.png,1,train
-train/not-good/slice015_013.png,1,train
-train/not-good/slice047_009.png,1,train
-train/not-good/Slice_Bad (45).png,1,train
-train/not-good/Slice_Bad (130).png,1,train
-train/not-good/slice015_009.png,1,train
-train/not-good/Slice_Bad (122).png,1,train
-train/not-good/Slice_Bad (106).png,1,train
-train/not-good/slice029_004.png,1,train
-train/not-good/slice012_005.png,1,train
-train/not-good/slice019_003.png,1,train
-train/not-good/slice001_000.png,1,train
-train/not-good/Slice_Bad (59).png,1,train
-train/not-good/Slice_Bad (159).png,1,train
-train/not-good/Slice_Bad (241).png,1,train
-train/not-good/slice017_009.png,1,train
-train/not-good/Slice_Bad (118).png,1,train
-train/not-good/slice048_006.png,1,train
-train/not-good/Slice_Bad (255).png,1,train
-train/not-good/Slice_Bad (19).png,1,train
-train/not-good/slice044_006.png,1,train
-train/not-good/Slice_Bad (30).png,1,train
-train/not-good/slice020_005.png,1,train
-train/not-good/slice036_009.png,1,train
-train/not-good/slice045_012.png,1,train
-train/not-good/slice060_013.png,1,train
-train/not-good/slice004_008.png,1,train
-train/not-good/slice045_009.png,1,train
-train/not-good/Slice_Bad (72).png,1,train
-train/not-good/Slice_Bad (26).png,1,train
-train/not-good/slice038_005.png,1,train
-train/not-good/slice015_004.png,1,train
-train/not-good/slice019_000.png,1,train
-train/not-good/slice001_005.png,1,train
-train/not-good/Slice_Bad (108).png,1,train
-train/not-good/Slice_Bad (224).png,1,train
-train/not-good/Slice_Bad (73).png,1,train
-train/not-good/slice054_008.png,1,train
-train/not-good/slice012_014.png,1,train
-train/not-good/Slice_Bad (41).png,1,train
-train/not-good/Slice_Bad (131).png,1,train
-train/not-good/slice042_000.png,1,train
-train/not-good/Slice_Bad (156).png,1,train
-train/not-good/slice045_006.png,1,train
-train/not-good/Slice_Bad (171).png,1,train
-train/not-good/slice044_008.png,1,train
-train/not-good/Slice_Bad (124).png,1,train
-train/not-good/slice021_011.png,1,train
-train/not-good/Slice_Bad (208).png,1,train
-train/not-good/slice010_011.png,1,train
-train/not-good/Slice_Bad (93).png,1,train
-train/not-good/slice020_011.png,1,train
-train/not-good/Slice_Bad (32).png,1,train
-train/not-good/slice048_014.png,1,train
-train/not-good/slice038_015.png,1,train
-train/not-good/slice048_003.png,1,train
-train/not-good/slice059_005.png,1,train
-train/not-good/slice047_012.png,1,train
-train/not-good/slice041_014.png,1,train
-train/not-good/slice003_009.png,1,train
-train/not-good/slice043_005.png,1,train
-train/not-good/Slice_Bad (90).png,1,train
-train/not-good/Slice_Bad (254).png,1,train
-train/not-good/slice038_014.png,1,train
-train/not-good/slice036_005.png,1,train
-train/not-good/Slice_Bad (66).png,1,train
-train/not-good/slice058_007.png,1,train
-train/not-good/slice037_010.png,1,train
-train/not-good/slice013_003.png,1,train
-train/not-good/Slice_Bad (86).png,1,train
-train/not-good/Slice_Bad (11).png,1,train
-train/not-good/Slice_Bad (204).png,1,train
-train/not-good/Slice_Bad (56).png,1,train
-train/not-good/slice004_010.png,1,train
-train/not-good/Slice_Bad (256).png,1,train
-train/not-good/slice014_010.png,1,train
-train/not-good/slice044_007.png,1,train
-train/not-good/Slice_Bad (63).png,1,train
-train/not-good/slice044_010.png,1,train
-train/not-good/Slice_Bad (211).png,1,train
-train/not-good/Slice_Bad (209).png,1,train
-train/not-good/Slice_Bad (58).png,1,train
-train/not-good/slice013_006.png,1,train
-train/not-good/slice038_011.png,1,train
-train/not-good/Slice_Bad (24).png,1,train
-train/not-good/slice043_006.png,1,train
-train/not-good/slice016_004.png,1,train
-train/not-good/slice014_013.png,1,train
-train/not-good/slice013_011.png,1,train
-train/not-good/Slice_Bad (222).png,1,train
-train/not-good/slice059_009.png,1,train
-train/not-good/slice020_004.png,1,train
-train/not-good/Slice_Bad (216).png,1,train
-train/not-good/Slice_Bad (246).png,1,train
-train/not-good/slice036_012.png,1,train
-train/not-good/slice013_004.png,1,train
-train/not-good/slice035_006.png,1,train
-train/not-good/slice014_014.png,1,train
-train/not-good/slice055_010.png,1,train
-train/not-good/Slice_Bad (237).png,1,train
-train/not-good/Slice_Bad (95).png,1,train
-train/not-good/Slice_Bad (43).png,1,train
-train/not-good/Slice_Bad (47).png,1,train
-train/not-good/slice034_007.png,1,train
-train/not-good/Slice_Bad (238).png,1,train
-train/not-good/Slice_Bad (60).png,1,train
-train/not-good/slice041_001.png,1,train
-train/not-good/slice027_013.png,1,train
-train/not-good/slice016_007.png,1,train
-train/not-good/Slice_Bad (87).png,1,train
-train/not-good/Slice_Bad (9).png,1,train
-train/not-good/slice059_006.png,1,train
-train/not-good/slice039_008.png,1,train
-train/not-good/Slice_Bad (214).png,1,train
-train/not-good/slice010_006.png,1,train
-train/not-good/slice016_013.png,1,train
-train/not-good/slice044_000.png,1,train
-train/not-good/Slice_Bad (29).png,1,train
-train/not-good/slice046_011.png,1,train
-train/not-good/Slice_Bad (235).png,1,train
-train/not-good/Slice_Bad (22).png,1,train
-train/not-good/slice043_015.png,1,train
-train/not-good/slice018_013.png,1,train
-train/not-good/Slice_Bad (165).png,1,train
-train/not-good/slice014_012.png,1,train
-train/not-good/Slice_Bad (233).png,1,train
-train/not-good/Slice_Bad (121).png,1,train
-train/not-good/Slice_Bad (25).png,1,train
-train/not-good/slice031_003.png,1,train
-train/not-good/slice014_001.png,1,train
-train/not-good/slice019_004.png,1,train
-train/not-good/slice042_005.png,1,train
-train/not-good/slice047_002.png,1,train
-train/not-good/slice019_014.png,1,train
-train/not-good/Slice_Bad (206).png,1,train
-train/not-good/slice033_001.png,1,train
-train/not-good/Slice_Bad (174).png,1,train
-train/not-good/slice010_000.png,1,train
-train/not-good/slice036_007.png,1,train
-train/not-good/slice047_004.png,1,train
-train/not-good/slice003_005.png,1,train
-train/not-good/Slice_Bad (112).png,1,train
-train/not-good/slice048_010.png,1,train
-train/not-good/slice020_002.png,1,train
-train/not-good/slice042_001.png,1,train
-train/not-good/slice054_014.png,1,train
-train/not-good/Slice_Bad (120).png,1,train
-train/not-good/slice002_011.png,1,train
-train/not-good/Slice_Bad (76).png,1,train
-train/not-good/Slice_Bad (142).png,1,train
-train/not-good/slice035_012.png,1,train
-train/not-good/slice028_002.png,1,train
-train/not-good/Slice_Bad (177).png,1,train
-train/not-good/slice019_015.png,1,train
-train/not-good/slice035_010.png,1,train
-train/not-good/slice005_002.png,1,train
-train/not-good/slice036_000.png,1,train
-train/not-good/Slice_Bad (143).png,1,train
-train/not-good/slice003_015.png,1,train
-train/not-good/slice061_014.png,1,train
-train/not-good/Slice_Bad (228).png,1,train
-train/not-good/Slice_Bad (267).png,1,train
-train/not-good/slice053_006.png,1,train
-train/not-good/slice029_002.png,1,train
-train/not-good/Slice_Bad (219).png,1,train
-train/not-good/Slice_Bad (79).png,1,train
-train/not-good/slice013_002.png,1,train
-train/not-good/slice016_008.png,1,train
-train/not-good/slice012_015.png,1,train
-train/not-good/slice003_014.png,1,train
-train/not-good/slice050_007.png,1,train
-train/not-good/slice038_007.png,1,train
-train/not-good/Slice_Bad (225).png,1,train
-train/not-good/slice050_015.png,1,train
-train/not-good/Slice_Bad (10).png,1,train
-train/not-good/slice001_008.png,1,train
-train/not-good/slice043_010.png,1,train
-train/not-good/slice003_011.png,1,train
-train/not-good/slice014_002.png,1,train
-train/not-good/Slice_Bad (268).png,1,train
-train/not-good/slice027_006.png,1,train
-train/not-good/slice047_000.png,1,train
-train/not-good/Slice_Bad (215).png,1,train
-train/not-good/slice009_011.png,1,train
-train/not-good/slice058_008.png,1,train
-train/not-good/slice025_011.png,1,train
-train/not-good/slice034_014.png,1,train
-train/not-good/Slice_Bad (126).png,1,train
-train/not-good/slice042_011.png,1,train
-train/not-good/slice013_013.png,1,train
-train/not-good/slice040_013.png,1,train
-train/not-good/Slice_Bad (218).png,1,train
-train/not-good/slice059_007.png,1,train
-train/not-good/slice038_010.png,1,train
-train/not-good/slice049_010.png,1,train
-train/not-good/slice057_006.png,1,train
-train/not-good/slice033_000.png,1,train
-train/not-good/Slice_Bad (248).png,1,train
-train/not-good/slice047_007.png,1,train
-train/not-good/slice029_001.png,1,train
-train/not-good/slice012_002.png,1,train
-train/not-good/slice028_006.png,1,train
-train/not-good/slice041_015.png,1,train
-train/not-good/slice035_007.png,1,train
-train/not-good/slice036_008.png,1,train
-train/not-good/slice003_012.png,1,train
-train/not-good/slice003_010.png,1,train
-train/not-good/slice001_002.png,1,train
-train/not-good/Slice_Bad (50).png,1,train
-train/not-good/Slice_Bad (61).png,1,train
-train/not-good/slice002_003.png,1,train
-train/not-good/slice001_012.png,1,train
-train/not-good/slice003_000.png,1,train
-train/not-good/Slice_Bad (12).png,1,train
-train/not-good/Slice_Bad (152).png,1,train
-train/not-good/Slice_Bad (96).png,1,train
-train/not-good/Slice_Bad (239).png,1,train
-train/not-good/slice002_012.png,1,train
-train/not-good/slice001_011.png,1,train
-train/not-good/slice027_011.png,1,train
-train/not-good/slice028_007.png,1,train
-train/not-good/slice054_007.png,1,train
-train/not-good/Slice_Bad (196).png,1,train
-train/not-good/slice009_004.png,1,train
-train/not-good/slice017_005.png,1,train
-train/not-good/slice003_006.png,1,train
-train/not-good/slice041_010.png,1,train
-train/not-good/Slice_Bad (183).png,1,train
-train/not-good/Slice_Bad (21).png,1,train
-train/not-good/slice043_000.png,1,train
-train/not-good/slice035_003.png,1,train
-train/not-good/slice029_007.png,1,train
-train/not-good/slice036_006.png,1,train
-train/not-good/slice029_003.png,1,train
-train/not-good/slice028_005.png,1,train
-train/not-good/slice003_004.png,1,train
-train/not-good/slice041_000.png,1,train
-train/not-good/slice019_002.png,1,train
-train/not-good/slice060_012.png,1,train
-train/not-good/slice042_004.png,1,train
-train/not-good/Slice_Bad (5).png,1,train
-train/not-good/Slice_Bad (234).png,1,train
-train/not-good/slice037_014.png,1,train
-train/not-good/slice053_000.png,1,train
-train/not-good/slice027_002.png,1,train
-train/not-good/slice000_010.png,1,train
-train/not-good/slice027_014.png,1,train
-train/not-good/slice004_003.png,1,train
-train/not-good/slice000_006.png,1,train
-train/not-good/slice010_004.png,1,train
-train/not-good/Slice_Bad (145).png,1,train
-train/not-good/slice003_007.png,1,train
-train/not-good/Slice_Bad (247).png,1,train
-train/not-good/slice000_013.png,1,train
-train/not-good/Slice_Bad (71).png,1,train
-train/not-good/slice043_009.png,1,train
-train/not-good/slice016_009.png,1,train
-train/not-good/slice002_000.png,1,train
-train/not-good/Slice_Bad (150).png,1,train
-train/not-good/Slice_Bad (94).png,1,train
-train/not-good/Slice_Bad (40).png,1,train
-train/not-good/slice056_000.png,1,train
-train/not-good/Slice_Bad (223).png,1,train
-train/not-good/slice020_006.png,1,train
-train/not-good/Slice_Bad (77).png,1,train
-train/not-good/slice034_012.png,1,train
-train/not-good/Slice_Bad (129).png,1,train
-train/not-good/slice049_007.png,1,train
-train/not-good/slice009_007.png,1,train
-train/not-good/slice017_015.png,1,train
-train/not-good/slice014_005.png,1,train
-train/not-good/slice034_013.png,1,train
-train/not-good/slice020_009.png,1,train
-train/not-good/slice017_012.png,1,train
-train/not-good/slice005_004.png,1,train
-train/not-good/Slice_Bad (144).png,1,train
-train/not-good/slice041_008.png,1,train
-train/not-good/slice043_011.png,1,train
-train/not-good/Slice_Bad (252).png,1,train
-train/not-good/slice012_004.png,1,train
-train/not-good/slice002_014.png,1,train
-train/not-good/Slice_Bad (111).png,1,train
-train/not-good/slice022_011.png,1,train
-train/not-good/slice000_012.png,1,train
-train/not-good/slice061_012.png,1,train
-train/not-good/Slice_Bad (213).png,1,train
-train/not-good/slice041_013.png,1,train
-train/not-good/slice036_014.png,1,train
-train/not-good/Slice_Bad (192).png,1,train
-train/not-good/slice042_007.png,1,train
-train/not-good/slice019_008.png,1,train
-train/not-good/slice042_006.png,1,train
-train/not-good/slice035_008.png,1,train
-train/not-good/slice050_013.png,1,train
-train/not-good/Slice_Bad (250).png,1,train
-train/not-good/Slice_Bad (179).png,1,train
-train/not-good/slice048_015.png,1,train
-train/not-good/Slice_Bad (251).png,1,train
-train/not-good/Slice_Bad (84).png,1,train
-train/not-good/slice015_010.png,1,train
-train/not-good/slice054_006.png,1,train
-train/not-good/slice046_006.png,1,train
-train/not-good/slice057_004.png,1,train
-train/not-good/slice001_013.png,1,train
-train/not-good/slice054_000.png,1,train
-train/not-good/Slice_Bad (1).png,1,train
-train/not-good/slice045_007.png,1,train
-train/not-good/slice037_008.png,1,train
-train/not-good/Slice_Bad (217).png,1,train
-train/not-good/Slice_Bad (154).png,1,train
-train/not-good/slice050_000.png,1,train
-train/not-good/Slice_Bad (55).png,1,train
-train/not-good/Slice_Bad (101).png,1,train
-train/not-good/slice033_009.png,1,train
-train/not-good/Slice_Bad (167).png,1,train
-train/not-good/slice027_010.png,1,train
-train/not-good/slice037_011.png,1,train
-train/not-good/slice047_001.png,1,train
-train/not-good/Slice_Bad (2).png,1,train
-train/not-good/Slice_Bad (3).png,1,train
-train/not-good/slice049_014.png,1,train
-train/not-good/Slice_Bad (227).png,1,train
-train/not-good/Slice_Bad (8).png,1,train
-train/not-good/Slice_Bad (210).png,1,train
-train/not-good/slice036_001.png,1,train
-train/not-good/slice002_015.png,1,train
-train/not-good/slice013_010.png,1,train
-train/not-good/Slice_Bad (202).png,1,train
-train/not-good/Slice_Bad (161).png,1,train
-train/not-good/slice038_008.png,1,train
-train/not-good/slice032_005.png,1,train
-train/not-good/slice034_010.png,1,train
-train/not-good/slice044_013.png,1,train
-train/good/slice035_011.png,0,train
-train/good/Slice_Good (120).png,0,train
-train/good/slice033_013.png,0,train
-train/good/slice019_010.png,0,train
-train/good/Slice_Good (18).png,0,train
-train/good/slice024_013.png,0,train
-train/good/slice004_000.png,0,train
-train/good/slice016_003.png,0,train
-train/good/Slice_Good (97).png,0,train
-train/good/slice037_006.png,0,train
-train/good/slice041_003.png,0,train
-train/good/slice013_009.png,0,train
-train/good/slice036_002.png,0,train
-train/good/slice041_005.png,0,train
-train/good/slice011_004.png,0,train
-train/good/slice032_008.png,0,train
-train/good/slice041_002.png,0,train
-train/good/slice020_003.png,0,train
-train/good/Slice_Good (123).png,0,train
-train/good/slice018_002.png,0,train
-train/good/Slice_Good (158).png,0,train
-train/good/Slice_Good (191).png,0,train
-train/good/slice039_004.png,0,train
-train/good/slice033_014.png,0,train
-train/good/Slice_Good (93).png,0,train
-train/good/slice032_013.png,0,train
-train/good/slice027_000.png,0,train
-train/good/slice030_000.png,0,train
-train/good/slice022_012.png,0,train
-train/good/slice039_010.png,0,train
-train/good/Slice_Good (157).png,0,train
-train/good/slice008_009.png,0,train
-train/good/Slice_Good (82).png,0,train
-train/good/slice035_013.png,0,train
-train/good/Slice_Good (31).png,0,train
-train/good/slice028_014.png,0,train
-train/good/slice027_012.png,0,train
-train/good/Slice_Good (129).png,0,train
-train/good/Slice_Good (22).png,0,train
-train/good/slice019_013.png,0,train
-train/good/slice001_010.png,0,train
-train/good/slice042_013.png,0,train
-train/good/Slice_Good (42).png,0,train
-train/good/Slice_Good (128).png,0,train
-train/good/slice005_013.png,0,train
-train/good/slice017_004.png,0,train
-train/good/slice038_009.png,0,train
-train/good/slice032_009.png,0,train
-train/good/slice009_005.png,0,train
-train/good/slice036_003.png,0,train
-train/good/Slice_Good (106).png,0,train
-train/good/slice029_010.png,0,train
-train/good/slice021_010.png,0,train
-train/good/slice039_009.png,0,train
-train/good/Slice_Good (165).png,0,train
-train/good/slice027_009.png,0,train
-train/good/slice006_008.png,0,train
-train/good/slice028_000.png,0,train
-train/good/slice040_001.png,0,train
-train/good/slice019_007.png,0,train
-train/good/slice007_012.png,0,train
-train/good/slice026_011.png,0,train
-train/good/Slice_Good (59).png,0,train
-train/good/slice006_009.png,0,train
-train/good/Slice_Good (89).png,0,train
-train/good/Slice_Good (198).png,0,train
-train/good/slice014_006.png,0,train
-train/good/Slice_Good (167).png,0,train
-train/good/slice001_006.png,0,train
-train/good/slice029_011.png,0,train
-train/good/slice034_008.png,0,train
-train/good/slice035_005.png,0,train
-train/good/slice012_006.png,0,train
-train/good/slice034_004.png,0,train
-train/good/Slice_Good (28).png,0,train
-train/good/slice030_003.png,0,train
-train/good/Slice_Good (133).png,0,train
-train/good/slice029_005.png,0,train
-train/good/slice005_007.png,0,train
-train/good/Slice_Good (62).png,0,train
-train/good/slice000_008.png,0,train
-train/good/slice031_012.png,0,train
-train/good/Slice_Good (117).png,0,train
-train/good/slice005_000.png,0,train
-train/good/slice006_002.png,0,train
-train/good/slice038_006.png,0,train
-train/good/slice024_004.png,0,train
-train/good/slice017_013.png,0,train
-train/good/Slice_Good (108).png,0,train
-train/good/Slice_Good (15).png,0,train
-train/good/slice013_007.png,0,train
-train/good/slice009_012.png,0,train
-train/good/slice016_012.png,0,train
-train/good/slice027_015.png,0,train
-train/good/slice003_003.png,0,train
-train/good/slice025_007.png,0,train
-train/good/slice020_008.png,0,train
-train/good/slice018_003.png,0,train
-train/good/slice024_007.png,0,train
-train/good/slice000_000.png,0,train
-train/good/Slice_Good (170).png,0,train
-train/good/slice029_014.png,0,train
-train/good/Slice_Good (56).png,0,train
-train/good/slice032_012.png,0,train
-train/good/slice007_002.png,0,train
-train/good/slice004_004.png,0,train
-train/good/slice037_007.png,0,train
-train/good/Slice_Good (197).png,0,train
-train/good/Slice_Good (183).png,0,train
-train/good/slice042_008.png,0,train
-train/good/Slice_Good (39).png,0,train
-train/good/Slice_Good (51).png,0,train
-train/good/slice011_002.png,0,train
-train/good/Slice_Good (148).png,0,train
-train/good/slice021_003.png,0,train
-train/good/Slice_Good (186).png,0,train
-train/good/Slice_Good (75).png,0,train
-train/good/slice011_013.png,0,train
-train/good/Slice_Good (50).png,0,train
-train/good/Slice_Good (113).png,0,train
-train/good/slice026_006.png,0,train
-train/good/slice021_014.png,0,train
-train/good/slice033_006.png,0,train
-train/good/Slice_Good (96).png,0,train
-train/good/slice033_002.png,0,train
-train/good/Slice_Good (45).png,0,train
-train/good/slice018_004.png,0,train
-train/good/slice040_002.png,0,train
-train/good/Slice_Good (175).png,0,train
-train/good/slice028_013.png,0,train
-train/good/slice010_001.png,0,train
-train/good/slice002_010.png,0,train
-train/good/Slice_Good (126).png,0,train
-train/good/Slice_Good (114).png,0,train
-train/good/slice000_015.png,0,train
-train/good/Slice_Good (52).png,0,train
-train/good/slice003_002.png,0,train
-train/good/slice041_009.png,0,train
-train/good/Slice_Good (194).png,0,train
-train/good/slice022_010.png,0,train
-train/good/slice026_005.png,0,train
-train/good/slice013_014.png,0,train
-train/good/slice009_000.png,0,train
-train/good/Slice_Good (132).png,0,train
-train/good/Slice_Good (184).png,0,train
-train/good/slice033_011.png,0,train
-train/good/slice024_005.png,0,train
-train/good/Slice_Good (64).png,0,train
-train/good/Slice_Good (100).png,0,train
-train/good/slice002_005.png,0,train
-train/good/Slice_Good (91).png,0,train
-train/good/Slice_Good (136).png,0,train
-train/good/slice028_011.png,0,train
-train/good/Slice_Good (115).png,0,train
-train/good/slice006_010.png,0,train
-train/good/slice017_006.png,0,train
-train/good/slice034_002.png,0,train
-train/good/slice021_007.png,0,train
-train/good/slice026_015.png,0,train
-train/good/slice024_002.png,0,train
-train/good/slice025_005.png,0,train
-train/good/slice022_015.png,0,train
-train/good/slice019_012.png,0,train
-train/good/Slice_Good (163).png,0,train
-train/good/slice030_007.png,0,train
-train/good/Slice_Good (69).png,0,train
-train/good/slice014_004.png,0,train
-train/good/slice040_011.png,0,train
-train/good/Slice_Good (85).png,0,train
-train/good/Slice_Good (35).png,0,train
-train/good/slice015_002.png,0,train
-train/good/slice039_005.png,0,train
-train/good/slice012_001.png,0,train
-train/good/slice023_006.png,0,train
-train/good/slice012_009.png,0,train
-train/good/slice026_010.png,0,train
-train/good/slice030_009.png,0,train
-train/good/slice037_009.png,0,train
-train/good/slice039_012.png,0,train
-train/good/slice040_007.png,0,train
-train/good/slice001_003.png,0,train
-train/good/Slice_Good (125).png,0,train
-train/good/slice015_003.png,0,train
-train/good/Slice_Good (20).png,0,train
-train/good/slice023_011.png,0,train
-train/good/slice010_014.png,0,train
-train/good/slice006_015.png,0,train
-train/good/slice010_003.png,0,train
-train/good/slice013_008.png,0,train
-train/good/Slice_Good (139).png,0,train
-train/good/slice031_002.png,0,train
-train/good/slice031_006.png,0,train
-train/good/Slice_Good (86).png,0,train
-train/good/Slice_Good (134).png,0,train
-train/good/Slice_Good (38).png,0,train
-train/good/slice039_007.png,0,train
-train/good/slice001_001.png,0,train
-train/good/slice030_006.png,0,train
-train/good/Slice_Good (101).png,0,train
-train/good/slice042_009.png,0,train
-train/good/slice007_005.png,0,train
-train/good/slice000_003.png,0,train
-train/good/slice038_013.png,0,train
-train/good/slice016_006.png,0,train
-train/good/slice009_009.png,0,train
-train/good/Slice_Good (199).png,0,train
-train/good/slice010_015.png,0,train
-train/good/slice024_010.png,0,train
-train/good/slice008_002.png,0,train
-train/good/slice020_010.png,0,train
-train/good/Slice_Good (84).png,0,train
-train/good/slice030_002.png,0,train
-train/good/Slice_Good (71).png,0,train
-train/good/slice017_008.png,0,train
-train/good/slice035_015.png,0,train
-train/good/slice017_010.png,0,train
-train/good/slice008_015.png,0,train
-train/good/Slice_Good (196).png,0,train
-train/good/Slice_Good (131).png,0,train
-train/good/slice031_000.png,0,train
-train/good/slice038_001.png,0,train
-train/good/slice004_009.png,0,train
-train/good/slice022_013.png,0,train
-train/good/slice025_001.png,0,train
-train/good/Slice_Good (142).png,0,train
-train/good/Slice_Good (67).png,0,train
-train/good/Slice_Good (99).png,0,train
-train/good/slice025_015.png,0,train
-train/good/Slice_Good (76).png,0,train
-train/good/Slice_Good (193).png,0,train
-train/good/Slice_Good (3).png,0,train
-train/good/slice014_015.png,0,train
-train/good/slice004_002.png,0,train
-train/good/slice002_001.png,0,train
-train/good/slice040_000.png,0,train
-train/good/Slice_Good (109).png,0,train
-train/good/slice008_012.png,0,train
-train/good/slice033_015.png,0,train
-train/good/slice019_001.png,0,train
-train/good/slice024_009.png,0,train
-train/good/slice006_004.png,0,train
-train/good/slice016_014.png,0,train
-train/good/Slice_Good (166).png,0,train
-train/good/slice034_006.png,0,train
-train/good/slice013_000.png,0,train
-train/good/slice007_014.png,0,train
-train/good/slice009_015.png,0,train
-train/good/slice032_007.png,0,train
-train/good/slice014_000.png,0,train
-train/good/slice034_003.png,0,train
-train/good/slice024_001.png,0,train
-train/good/Slice_Good (26).png,0,train
-train/good/slice028_004.png,0,train
-train/good/slice021_009.png,0,train
-train/good/slice015_001.png,0,train
-train/good/Slice_Good (172).png,0,train
-train/good/Slice_Good (98).png,0,train
-train/good/slice000_001.png,0,train
-train/good/slice008_014.png,0,train
-train/good/Slice_Good (78).png,0,train
-train/good/slice026_004.png,0,train
-train/good/slice022_000.png,0,train
-train/good/slice036_015.png,0,train
-train/good/slice012_003.png,0,train
-train/good/Slice_Good (73).png,0,train
-train/good/slice027_004.png,0,train
-train/good/Slice_Good (124).png,0,train
-train/good/slice011_009.png,0,train
-train/good/Slice_Good (187).png,0,train
-train/good/slice023_002.png,0,train
-train/good/slice030_008.png,0,train
-train/good/slice014_008.png,0,train
-train/good/slice041_007.png,0,train
-train/good/slice008_006.png,0,train
-train/good/slice002_008.png,0,train
-train/good/Slice_Good (57).png,0,train
-train/good/slice006_006.png,0,train
-train/good/slice009_010.png,0,train
-train/good/slice025_010.png,0,train
-train/good/Slice_Good (9).png,0,train
-train/good/slice042_015.png,0,train
-train/good/slice039_000.png,0,train
-train/good/slice010_007.png,0,train
-train/good/slice016_005.png,0,train
-train/good/Slice_Good (140).png,0,train
-train/good/slice008_013.png,0,train
-train/good/Slice_Good (119).png,0,train
-train/good/slice032_015.png,0,train
-train/good/slice041_012.png,0,train
-train/good/slice011_011.png,0,train
-train/good/Slice_Good (181).png,0,train
-train/good/slice037_005.png,0,train
-train/good/slice024_008.png,0,train
-train/good/slice015_006.png,0,train
-train/good/slice012_012.png,0,train
-train/good/slice002_013.png,0,train
-train/good/Slice_Good (111).png,0,train
-train/good/slice021_015.png,0,train
-train/good/slice033_003.png,0,train
-train/good/slice011_008.png,0,train
-train/good/Slice_Good (135).png,0,train
-train/good/slice011_001.png,0,train
-train/good/slice016_015.png,0,train
-train/good/slice005_012.png,0,train
-train/good/Slice_Good (185).png,0,train
-train/good/Slice_Good (137).png,0,train
-train/good/slice026_000.png,0,train
-train/good/slice009_003.png,0,train
-train/good/slice011_005.png,0,train
-train/good/slice036_011.png,0,train
-train/good/slice007_000.png,0,train
-train/good/slice010_009.png,0,train
-train/good/slice000_005.png,0,train
-train/good/slice009_008.png,0,train
-train/good/slice000_004.png,0,train
-train/good/slice039_013.png,0,train
-train/good/slice033_012.png,0,train
-train/good/slice024_006.png,0,train
-train/good/Slice_Good (168).png,0,train
-train/good/slice012_010.png,0,train
-train/good/Slice_Good (102).png,0,train
-train/good/slice030_015.png,0,train
-train/good/Slice_Good (122).png,0,train
-train/good/slice034_005.png,0,train
-train/good/slice040_005.png,0,train
-train/good/slice004_007.png,0,train
-train/good/slice035_009.png,0,train
-train/good/slice026_013.png,0,train
-train/good/slice023_010.png,0,train
-train/good/slice029_012.png,0,train
-train/good/slice005_008.png,0,train
-train/good/slice012_011.png,0,train
-train/good/slice031_004.png,0,train
-train/good/Slice_Good (153).png,0,train
-train/good/slice034_000.png,0,train
-train/good/slice035_004.png,0,train
-train/good/slice038_000.png,0,train
-train/good/Slice_Good (143).png,0,train
-train/good/slice031_013.png,0,train
-train/good/slice025_000.png,0,train
-train/good/Slice_Good (40).png,0,train
-train/good/slice021_001.png,0,train
-train/good/Slice_Good (44).png,0,train
-train/good/slice008_000.png,0,train
-train/good/slice024_000.png,0,train
-train/good/Slice_Good (180).png,0,train
-train/good/slice041_011.png,0,train
-train/good/slice027_008.png,0,train
-train/good/slice005_003.png,0,train
-train/good/slice015_000.png,0,train
-train/good/Slice_Good (189).png,0,train
-train/good/slice002_006.png,0,train
-train/good/Slice_Good (58).png,0,train
-train/good/slice008_010.png,0,train
-train/good/Slice_Good (14).png,0,train
-train/good/Slice_Good (37).png,0,train
-train/good/slice016_002.png,0,train
-train/good/Slice_Good (103).png,0,train
-train/good/slice011_003.png,0,train
-train/good/slice004_011.png,0,train
-train/good/slice006_014.png,0,train
-train/good/Slice_Good (118).png,0,train
-train/good/slice034_009.png,0,train
-train/good/slice018_007.png,0,train
-train/good/Slice_Good (159).png,0,train
-train/good/Slice_Good (49).png,0,train
-train/good/slice023_015.png,0,train
-train/good/slice023_005.png,0,train
-train/good/Slice_Good (77).png,0,train
-train/good/slice010_002.png,0,train
-train/good/slice004_015.png,0,train
-train/good/slice016_010.png,0,train
-train/good/Slice_Good (169).png,0,train
-train/good/Slice_Good (10).png,0,train
-train/good/Slice_Good (179).png,0,train
-train/good/slice027_001.png,0,train
-train/good/slice030_005.png,0,train
-train/good/slice028_015.png,0,train
-train/good/slice023_004.png,0,train
-train/good/slice036_010.png,0,train
-train/good/slice011_015.png,0,train
-train/good/slice013_001.png,0,train
-train/good/slice021_012.png,0,train
-train/good/slice032_006.png,0,train
-train/good/Slice_Good (107).png,0,train
-train/good/slice001_007.png,0,train
-train/good/slice011_014.png,0,train
-train/good/slice001_009.png,0,train
-train/good/Slice_Good (13).png,0,train
-train/good/slice010_010.png,0,train
-train/good/Slice_Good (155).png,0,train
-train/good/Slice_Good (19).png,0,train
-train/good/Slice_Good (74).png,0,train
-train/good/slice020_012.png,0,train
-train/good/slice036_004.png,0,train
-train/good/slice034_011.png,0,train
-train/good/slice036_013.png,0,train
-train/good/slice010_012.png,0,train
-train/good/Slice_Good (66).png,0,train
-train/good/slice039_011.png,0,train
-train/good/slice029_009.png,0,train
-train/good/slice003_013.png,0,train
-train/good/slice022_007.png,0,train
-train/good/slice000_011.png,0,train
-train/good/Slice_Good (160).png,0,train
-train/good/Slice_Good (121).png,0,train
-train/good/slice023_007.png,0,train
-train/good/slice029_006.png,0,train
-train/good/slice038_004.png,0,train
-train/good/slice009_013.png,0,train
-train/good/slice006_011.png,0,train
-train/good/slice007_013.png,0,train
-train/good/slice038_012.png,0,train
-train/good/slice034_015.png,0,train
-train/good/slice037_015.png,0,train
-train/good/slice011_012.png,0,train
-train/good/Slice_Good (72).png,0,train
-train/good/slice007_001.png,0,train
-train/good/slice017_011.png,0,train
-train/good/slice011_007.png,0,train
-train/good/slice017_007.png,0,train
-train/good/slice017_003.png,0,train
-train/good/slice042_010.png,0,train
-train/good/slice040_012.png,0,train
-train/good/slice005_005.png,0,train
-train/good/slice023_012.png,0,train
-train/good/Slice_Good (150).png,0,train
-train/good/Slice_Good (23).png,0,train
-train/good/slice006_000.png,0,train
-train/good/Slice_Good (145).png,0,train
-train/good/slice031_009.png,0,train
-train/good/Slice_Good (116).png,0,train
-train/good/slice015_013.png,0,train
-train/good/slice007_009.png,0,train
-train/good/slice000_009.png,0,train
-train/good/slice000_007.png,0,train
-train/good/slice012_005.png,0,train
-train/good/slice019_003.png,0,train
-train/good/slice001_000.png,0,train
-train/good/Slice_Good (161).png,0,train
-train/good/slice021_002.png,0,train
-train/good/slice023_001.png,0,train
-train/good/Slice_Good (154).png,0,train
-train/good/slice020_005.png,0,train
-train/good/slice009_006.png,0,train
-train/good/slice037_004.png,0,train
-train/good/Slice_Good (130).png,0,train
-train/good/slice023_008.png,0,train
-train/good/Slice_Good (32).png,0,train
-train/good/Slice_Good (178).png,0,train
-train/good/slice038_005.png,0,train
-train/good/slice031_007.png,0,train
-train/good/slice019_000.png,0,train
-train/good/Slice_Good (171).png,0,train
-train/good/slice031_001.png,0,train
-train/good/slice011_010.png,0,train
-train/good/Slice_Good (92).png,0,train
-train/good/slice001_005.png,0,train
-train/good/Slice_Good (164).png,0,train
-train/good/slice012_014.png,0,train
-train/good/Slice_Good (94).png,0,train
-train/good/slice042_000.png,0,train
-train/good/slice042_014.png,0,train
-train/good/slice007_007.png,0,train
-train/good/slice021_011.png,0,train
-train/good/Slice_Good (80).png,0,train
-train/good/slice033_008.png,0,train
-train/good/slice010_011.png,0,train
-train/good/slice020_011.png,0,train
-train/good/slice023_000.png,0,train
-train/good/Slice_Good (16).png,0,train
-train/good/slice030_014.png,0,train
-train/good/slice003_009.png,0,train
-train/good/Slice_Good (46).png,0,train
-train/good/slice040_003.png,0,train
-train/good/Slice_Good (147).png,0,train
-train/good/Slice_Good (127).png,0,train
-train/good/slice021_013.png,0,train
-train/good/slice015_005.png,0,train
-train/good/Slice_Good (83).png,0,train
-train/good/slice021_004.png,0,train
-train/good/slice038_014.png,0,train
-train/good/slice019_005.png,0,train
-train/good/slice026_012.png,0,train
-train/good/slice036_005.png,0,train
-train/good/slice023_003.png,0,train
-train/good/slice007_004.png,0,train
-train/good/Slice_Good (68).png,0,train
-train/good/slice025_003.png,0,train
-train/good/slice037_010.png,0,train
-train/good/slice025_014.png,0,train
-train/good/slice028_001.png,0,train
-train/good/slice007_010.png,0,train
-train/good/slice025_002.png,0,train
-train/good/slice028_012.png,0,train
-train/good/slice018_000.png,0,train
-train/good/slice009_002.png,0,train
-train/good/slice004_010.png,0,train
-train/good/Slice_Good (5).png,0,train
-train/good/slice014_010.png,0,train
-train/good/slice041_006.png,0,train
-train/good/slice031_014.png,0,train
-train/good/slice010_008.png,0,train
-train/good/slice013_006.png,0,train
-train/good/slice038_011.png,0,train
-train/good/Slice_Good (8).png,0,train
-train/good/slice035_002.png,0,train
-train/good/slice006_007.png,0,train
-train/good/slice016_004.png,0,train
-train/good/slice033_010.png,0,train
-train/good/slice014_013.png,0,train
-train/good/slice013_011.png,0,train
-train/good/slice020_004.png,0,train
-train/good/Slice_Good (24).png,0,train
-train/good/Slice_Good (192).png,0,train
-train/good/slice022_006.png,0,train
-train/good/Slice_Good (36).png,0,train
-train/good/slice036_012.png,0,train
-train/good/slice026_003.png,0,train
-train/good/Slice_Good (188).png,0,train
-train/good/slice035_006.png,0,train
-train/good/Slice_Good (151).png,0,train
-train/good/slice014_014.png,0,train
-train/good/Slice_Good (65).png,0,train
-train/good/slice017_002.png,0,train
-train/good/Slice_Good (2).png,0,train
-train/good/slice005_011.png,0,train
-train/good/slice034_007.png,0,train
-train/good/slice041_001.png,0,train
-train/good/slice027_013.png,0,train
-train/good/slice016_007.png,0,train
-train/good/slice032_004.png,0,train
-train/good/slice039_008.png,0,train
-train/good/slice012_008.png,0,train
-train/good/Slice_Good (55).png,0,train
-train/good/slice033_005.png,0,train
-train/good/slice010_006.png,0,train
-train/good/slice016_013.png,0,train
-train/good/Slice_Good (141).png,0,train
-train/good/slice037_000.png,0,train
-train/good/slice031_008.png,0,train
-train/good/slice027_005.png,0,train
-train/good/slice032_003.png,0,train
-train/good/slice007_011.png,0,train
-train/good/slice018_013.png,0,train
-train/good/slice025_013.png,0,train
-train/good/slice014_012.png,0,train
-train/good/slice023_009.png,0,train
-train/good/slice038_003.png,0,train
-train/good/slice014_001.png,0,train
-train/good/slice019_004.png,0,train
-train/good/slice035_001.png,0,train
-train/good/slice042_005.png,0,train
-train/good/Slice_Good (61).png,0,train
-train/good/slice033_001.png,0,train
-train/good/slice014_009.png,0,train
-train/good/Slice_Good (7).png,0,train
-train/good/slice010_000.png,0,train
-train/good/slice033_004.png,0,train
-train/good/slice000_014.png,0,train
-train/good/slice036_007.png,0,train
-train/good/slice006_003.png,0,train
-train/good/slice003_005.png,0,train
-train/good/slice018_010.png,0,train
-train/good/Slice_Good (6).png,0,train
-train/good/slice020_002.png,0,train
-train/good/slice042_001.png,0,train
-train/good/Slice_Good (149).png,0,train
-train/good/slice015_012.png,0,train
-train/good/slice002_011.png,0,train
-train/good/slice035_012.png,0,train
-train/good/slice028_002.png,0,train
-train/good/slice029_000.png,0,train
-train/good/slice019_015.png,0,train
-train/good/slice035_010.png,0,train
-train/good/slice005_002.png,0,train
-train/good/slice036_000.png,0,train
-train/good/slice015_011.png,0,train
-train/good/slice029_002.png,0,train
-train/good/slice017_001.png,0,train
-train/good/slice012_015.png,0,train
-train/good/Slice_Good (21).png,0,train
-train/good/slice003_014.png,0,train
-train/good/slice032_001.png,0,train
-train/good/Slice_Good (60).png,0,train
-train/good/slice007_015.png,0,train
-train/good/Slice_Good (27).png,0,train
-train/good/slice031_011.png,0,train
-train/good/slice032_002.png,0,train
-train/good/slice003_011.png,0,train
-train/good/slice014_002.png,0,train
-train/good/slice027_006.png,0,train
-train/good/slice007_003.png,0,train
-train/good/slice030_013.png,0,train
-train/good/slice026_002.png,0,train
-train/good/slice025_011.png,0,train
-train/good/slice034_014.png,0,train
-train/good/slice026_008.png,0,train
-train/good/Slice_Good (87).png,0,train
-train/good/slice013_013.png,0,train
-train/good/Slice_Good (138).png,0,train
-train/good/slice017_000.png,0,train
-train/good/Slice_Good (95).png,0,train
-train/good/Slice_Good (156).png,0,train
-train/good/slice022_005.png,0,train
-train/good/slice040_006.png,0,train
-train/good/Slice_Good (53).png,0,train
-train/good/slice029_001.png,0,train
-train/good/Slice_Good (190).png,0,train
-train/good/slice018_012.png,0,train
-train/good/Slice_Good (177).png,0,train
-train/good/slice012_002.png,0,train
-train/good/slice024_014.png,0,train
-train/good/slice028_006.png,0,train
-train/good/Slice_Good (25).png,0,train
-train/good/Slice_Good (88).png,0,train
-train/good/slice041_015.png,0,train
-train/good/slice036_008.png,0,train
-train/good/Slice_Good (30).png,0,train
-train/good/slice018_009.png,0,train
-train/good/slice003_010.png,0,train
-train/good/slice001_002.png,0,train
-train/good/slice039_002.png,0,train
-train/good/Slice_Good (4).png,0,train
-train/good/Slice_Good (81).png,0,train
-train/good/slice002_003.png,0,train
-train/good/slice001_012.png,0,train
-train/good/slice026_001.png,0,train
-train/good/slice003_000.png,0,train
-train/good/slice028_008.png,0,train
-train/good/slice015_014.png,0,train
-train/good/slice018_011.png,0,train
-train/good/Slice_Good (41).png,0,train
-train/good/Slice_Good (54).png,0,train
-train/good/slice025_006.png,0,train
-train/good/slice024_003.png,0,train
-train/good/slice021_008.png,0,train
-train/good/slice001_011.png,0,train
-train/good/slice035_000.png,0,train
-train/good/Slice_Good (105).png,0,train
-train/good/Slice_Good (90).png,0,train
-train/good/slice027_011.png,0,train
-train/good/Slice_Good (11).png,0,train
-train/good/slice025_008.png,0,train
-train/good/slice028_007.png,0,train
-train/good/slice010_013.png,0,train
-train/good/slice041_010.png,0,train
-train/good/slice002_004.png,0,train
-train/good/slice026_007.png,0,train
-train/good/slice035_003.png,0,train
-train/good/Slice_Good (17).png,0,train
-train/good/slice029_007.png,0,train
-train/good/slice036_006.png,0,train
-train/good/slice018_005.png,0,train
-train/good/slice024_011.png,0,train
-train/good/slice029_003.png,0,train
-train/good/slice028_005.png,0,train
-train/good/slice003_004.png,0,train
-train/good/slice018_015.png,0,train
-train/good/slice019_002.png,0,train
-train/good/slice042_004.png,0,train
-train/good/slice040_009.png,0,train
-train/good/Slice_Good (174).png,0,train
-train/good/slice005_014.png,0,train
-train/good/slice016_011.png,0,train
-train/good/Slice_Good (146).png,0,train
-train/good/slice037_014.png,0,train
-train/good/slice005_009.png,0,train
-train/good/slice029_015.png,0,train
-train/good/slice039_003.png,0,train
-train/good/slice031_015.png,0,train
-train/good/slice005_015.png,0,train
-train/good/slice027_002.png,0,train
-train/good/slice027_014.png,0,train
-train/good/Slice_Good (34).png,0,train
-train/good/slice019_009.png,0,train
-train/good/slice004_003.png,0,train
-train/good/Slice_Good (79).png,0,train
-train/good/slice037_003.png,0,train
-train/good/Slice_Good (47).png,0,train
-train/good/slice000_013.png,0,train
-train/good/slice001_004.png,0,train
-train/good/slice016_009.png,0,train
-train/good/slice002_000.png,0,train
-train/good/Slice_Good (1).png,0,train
-train/good/Slice_Good (195).png,0,train
-train/good/slice029_008.png,0,train
-train/good/Slice_Good (162).png,0,train
-train/good/slice024_015.png,0,train
-train/good/slice020_006.png,0,train
-train/good/slice034_012.png,0,train
-train/good/slice009_007.png,0,train
-train/good/slice017_015.png,0,train
-train/good/slice014_005.png,0,train
-train/good/slice006_001.png,0,train
-train/good/slice034_013.png,0,train
-train/good/slice020_009.png,0,train
-train/good/slice005_004.png,0,train
-train/good/slice041_008.png,0,train
-train/good/slice015_015.png,0,train
-train/good/slice012_004.png,0,train
-train/good/slice008_011.png,0,train
-train/good/slice002_014.png,0,train
-train/good/slice022_011.png,0,train
-train/good/Slice_Good (144).png,0,train
-train/good/slice030_004.png,0,train
-train/good/slice000_012.png,0,train
-train/good/slice036_014.png,0,train
-train/good/slice042_007.png,0,train
-train/good/slice019_008.png,0,train
-train/good/slice042_006.png,0,train
-train/good/Slice_Good (12).png,0,train
-train/good/Slice_Good (29).png,0,train
-train/good/slice028_009.png,0,train
-train/good/slice027_003.png,0,train
-train/good/slice028_010.png,0,train
-train/good/slice026_009.png,0,train
-train/good/Slice_Good (173).png,0,train
-train/good/Slice_Good (70).png,0,train
-train/good/Slice_Good (33).png,0,train
-train/good/slice001_013.png,0,train
-train/good/slice026_014.png,0,train
-train/good/Slice_Good (104).png,0,train
-train/good/Slice_Good (43).png,0,train
-train/good/slice012_013.png,0,train
-train/good/slice037_008.png,0,train
-train/good/slice019_011.png,0,train
-train/good/slice032_010.png,0,train
-train/good/slice033_009.png,0,train
-train/good/slice030_012.png,0,train
-train/good/Slice_Good (200).png,0,train
-train/good/slice027_010.png,0,train
-train/good/slice037_011.png,0,train
-train/good/Slice_Good (63).png,0,train
-train/good/slice022_014.png,0,train
-train/good/slice030_011.png,0,train
-train/good/Slice_Good (182).png,0,train
-train/good/Slice_Good (176).png,0,train
-train/good/slice036_001.png,0,train
-train/good/slice002_002.png,0,train
-train/good/slice002_015.png,0,train
-train/good/slice008_001.png,0,train
-train/good/slice013_010.png,0,train
-train/good/slice023_014.png,0,train
-train/good/slice039_001.png,0,train
-train/good/Slice_Good (110).png,0,train
-train/good/Slice_Good (112).png,0,train
-train/good/slice034_010.png,0,train
-train/good/Slice_Good (152).png,0,train
-train/good/Slice_Good (48).png,0,train
-test/not-good/slice019_010.png,1,test
-test/not-good/slice037_006.png,1,test
-test/not-good/slice039_004.png,1,test
-test/not-good/slice027_000.png,1,test
-test/not-good/slice010_005.png,1,test
-test/not-good/slice017_004.png,1,test
-test/not-good/slice028_000.png,1,test
-test/not-good/slice014_006.png,1,test
-test/not-good/slice029_011.png,1,test
-test/not-good/slice035_005.png,1,test
-test/not-good/slice017_013.png,1,test
-test/not-good/slice016_012.png,1,test
-test/not-good/slice027_015.png,1,test
-test/not-good/slice003_003.png,1,test
-test/not-good/slice005_010.png,1,test
-test/not-good/slice004_004.png,1,test
-test/not-good/slice054_012.png,1,test
-test/not-good/slice057_007.png,1,test
-test/not-good/slice057_013.png,1,test
-test/not-good/slice040_002.png,1,test
-test/not-good/slice002_010.png,1,test
-test/not-good/slice055_009.png,1,test
-test/not-good/slice054_003.png,1,test
-test/not-good/slice013_014.png,1,test
-test/not-good/slice033_011.png,1,test
-test/not-good/slice050_012.png,1,test
-test/not-good/slice058_001.png,1,test
-test/not-good/slice058_009.png,1,test
-test/not-good/slice019_012.png,1,test
-test/not-good/slice050_004.png,1,test
-test/not-good/slice047_006.png,1,test
-test/not-good/slice040_011.png,1,test
-test/not-good/slice012_009.png,1,test
-test/not-good/slice001_003.png,1,test
-test/not-good/slice044_014.png,1,test
-test/not-good/slice013_008.png,1,test
-test/not-good/slice017_008.png,1,test
-test/not-good/slice035_015.png,1,test
-test/not-good/slice056_001.png,1,test
-test/not-good/slice004_009.png,1,test
-test/not-good/slice049_002.png,1,test
-test/not-good/slice033_015.png,1,test
-test/not-good/slice024_009.png,1,test
-test/not-good/slice049_009.png,1,test
-test/not-good/slice048_007.png,1,test
-test/not-good/slice046_005.png,1,test
-test/not-good/slice011_011.png,1,test
-test/not-good/slice005_012.png,1,test
-test/not-good/slice036_011.png,1,test
-test/not-good/slice059_008.png,1,test
-test/not-good/slice005_003.png,1,test
-test/not-good/slice015_000.png,1,test
-test/not-good/slice034_009.png,1,test
-test/not-good/slice035_014.png,1,test
-test/not-good/slice005_006.png,1,test
-test/not-good/slice054_011.png,1,test
-test/not-good/slice023_007.png,1,test
-test/not-good/slice029_006.png,1,test
-test/not-good/slice011_007.png,1,test
-test/not-good/slice005_005.png,1,test
-test/not-good/slice000_009.png,1,test
-test/not-good/slice046_001.png,1,test
-test/not-good/slice047_010.png,1,test
-test/not-good/slice054_010.png,1,test
-test/not-good/slice016_000.png,1,test
-test/not-good/slice009_006.png,1,test
-test/not-good/slice042_003.png,1,test
-test/not-good/slice015_005.png,1,test
-test/not-good/slice019_005.png,1,test
-test/not-good/slice058_011.png,1,test
-test/not-good/slice028_001.png,1,test
-test/not-good/slice009_002.png,1,test
-test/not-good/slice041_006.png,1,test
-test/not-good/slice053_007.png,1,test
-test/not-good/slice010_008.png,1,test
-test/not-good/slice033_010.png,1,test
-test/not-good/slice053_014.png,1,test
-test/not-good/slice043_013.png,1,test
-test/not-good/slice061_004.png,1,test
-test/not-good/slice017_002.png,1,test
-test/not-good/slice005_011.png,1,test
-test/not-good/slice032_004.png,1,test
-test/not-good/slice033_005.png,1,test
-test/not-good/slice027_005.png,1,test
-test/not-good/slice032_003.png,1,test
-test/not-good/slice047_005.png,1,test
-test/not-good/slice008_003.png,1,test
-test/not-good/slice013_012.png,1,test
-test/not-good/slice014_009.png,1,test
-test/not-good/slice033_004.png,1,test
-test/not-good/slice000_014.png,1,test
-test/not-good/slice046_010.png,1,test
-test/not-good/slice058_010.png,1,test
-test/not-good/slice018_010.png,1,test
-test/not-good/slice044_004.png,1,test
-test/not-good/slice015_012.png,1,test
-test/not-good/slice045_014.png,1,test
-test/not-good/slice029_000.png,1,test
-test/not-good/slice017_001.png,1,test
-test/not-good/slice002_009.png,1,test
-test/not-good/slice046_000.png,1,test
-test/not-good/slice048_012.png,1,test
-test/not-good/slice043_004.png,1,test
-test/not-good/slice025_008.png,1,test
-test/not-good/slice040_014.png,1,test
-test/not-good/slice002_004.png,1,test
-test/not-good/slice050_010.png,1,test
-test/not-good/slice005_014.png,1,test
-test/not-good/slice016_011.png,1,test
-test/not-good/slice005_009.png,1,test
-test/not-good/slice005_015.png,1,test
-test/not-good/slice019_009.png,1,test
-test/not-good/slice001_004.png,1,test
-test/not-good/slice027_003.png,1,test
-test/not-good/slice004_012.png,1,test
-test/not-good/slice049_008.png,1,test
-test/not-good/slice019_011.png,1,test
-test/good/slice001_015.png,0,test
-test/good/slice032_000.png,0,test
-test/good/slice024_012.png,0,test
-test/good/slice029_013.png,0,test
-test/good/slice013_005.png,0,test
-test/good/slice020_013.png,0,test
-test/good/slice007_008.png,0,test
-test/good/slice040_004.png,0,test
-test/good/slice037_012.png,0,test
-test/good/slice001_014.png,0,test
-test/good/slice004_013.png,0,test
-test/good/slice025_012.png,0,test
-test/good/slice010_005.png,0,test
-test/good/slice004_005.png,0,test
-test/good/slice033_007.png,0,test
-test/good/slice005_001.png,0,test
-test/good/slice039_015.png,0,test
-test/good/slice022_004.png,0,test
-test/good/slice017_014.png,0,test
-test/good/slice022_008.png,0,test
-test/good/slice005_010.png,0,test
-test/good/slice021_000.png,0,test
-test/good/slice037_013.png,0,test
-test/good/slice040_015.png,0,test
-test/good/slice008_008.png,0,test
-test/good/slice028_003.png,0,test
-test/good/slice011_000.png,0,test
-test/good/slice023_013.png,0,test
-test/good/slice040_008.png,0,test
-test/good/slice020_000.png,0,test
-test/good/slice018_001.png,0,test
-test/good/slice009_001.png,0,test
-test/good/slice030_010.png,0,test
-test/good/slice003_008.png,0,test
-test/good/slice025_004.png,0,test
-test/good/slice006_005.png,0,test
-test/good/slice014_011.png,0,test
-test/good/slice042_012.png,0,test
-test/good/slice014_003.png,0,test
-test/good/slice004_014.png,0,test
-test/good/slice032_014.png,0,test
-test/good/slice041_004.png,0,test
-test/good/slice012_007.png,0,test
-test/good/slice002_007.png,0,test
-test/good/slice022_009.png,0,test
-test/good/slice021_006.png,0,test
-test/good/slice006_012.png,0,test
-test/good/slice006_013.png,0,test
-test/good/slice034_001.png,0,test
-test/good/slice027_007.png,0,test
-test/good/slice000_002.png,0,test
-test/good/slice039_014.png,0,test
-test/good/slice042_002.png,0,test
-test/good/slice015_007.png,0,test
-test/good/slice020_007.png,0,test
-test/good/slice004_006.png,0,test
-test/good/slice011_006.png,0,test
-test/good/slice015_008.png,0,test
-test/good/slice020_014.png,0,test
-test/good/slice020_015.png,0,test
-test/good/slice022_003.png,0,test
-test/good/slice014_007.png,0,test
-test/good/slice012_000.png,0,test
-test/good/slice025_009.png,0,test
-test/good/slice004_001.png,0,test
-test/good/slice016_001.png,0,test
-test/good/slice019_006.png,0,test
-test/good/slice037_001.png,0,test
-test/good/slice035_014.png,0,test
-test/good/slice013_015.png,0,test
-test/good/slice005_006.png,0,test
-test/good/slice003_001.png,0,test
-test/good/slice009_014.png,0,test
-test/good/slice020_001.png,0,test
-test/good/slice018_014.png,0,test
-test/good/slice037_002.png,0,test
-test/good/slice015_009.png,0,test
-test/good/slice029_004.png,0,test
-test/good/slice017_009.png,0,test
-test/good/slice016_000.png,0,test
-test/good/slice042_003.png,0,test
-test/good/slice036_009.png,0,test
-test/good/slice004_008.png,0,test
-test/good/slice015_004.png,0,test
-test/good/slice038_015.png,0,test
-test/good/slice041_014.png,0,test
-test/good/slice013_003.png,0,test
-test/good/slice032_011.png,0,test
-test/good/slice018_006.png,0,test
-test/good/slice013_004.png,0,test
-test/good/slice040_010.png,0,test
-test/good/slice039_006.png,0,test
-test/good/slice031_003.png,0,test
-test/good/slice038_002.png,0,test
-test/good/slice019_014.png,0,test
-test/good/slice008_003.png,0,test
-test/good/slice013_012.png,0,test
-test/good/slice003_015.png,0,test
-test/good/slice013_002.png,0,test
-test/good/slice016_008.png,0,test
-test/good/slice038_007.png,0,test
-test/good/slice022_001.png,0,test
-test/good/slice001_008.png,0,test
-test/good/slice022_002.png,0,test
-test/good/slice009_011.png,0,test
-test/good/slice042_011.png,0,test
-test/good/slice040_013.png,0,test
-test/good/slice038_010.png,0,test
-test/good/slice033_000.png,0,test
-test/good/slice002_009.png,0,test
-test/good/slice035_007.png,0,test
-test/good/slice003_012.png,0,test
-test/good/slice002_012.png,0,test
-test/good/slice030_001.png,0,test
-test/good/slice009_004.png,0,test
-test/good/slice017_005.png,0,test
-test/good/slice040_014.png,0,test
-test/good/slice003_006.png,0,test
-test/good/slice007_006.png,0,test
-test/good/slice021_005.png,0,test
-test/good/slice008_004.png,0,test
-test/good/slice041_000.png,0,test
-test/good/slice031_005.png,0,test
-test/good/slice000_010.png,0,test
-test/good/slice000_006.png,0,test
-test/good/slice010_004.png,0,test
-test/good/slice003_007.png,0,test
-test/good/slice008_005.png,0,test
-test/good/slice018_008.png,0,test
-test/good/slice017_012.png,0,test
-test/good/slice041_013.png,0,test
-test/good/slice035_008.png,0,test
-test/good/slice015_010.png,0,test
-test/good/slice008_007.png,0,test
-test/good/slice031_010.png,0,test
-test/good/slice004_012.png,0,test
-test/good/slice038_008.png,0,test
-test/good/slice032_005.png,0,test
+train\not-good\slice000_008.png,1,train
+train\not-good\slice000_010.png,1,train
+train\not-good\slice000_012.png,1,train
+train\not-good\slice000_013.png,1,train
+train\not-good\slice001_000.png,1,train
+train\not-good\slice001_001.png,1,train
+train\not-good\slice001_002.png,1,train
+train\not-good\slice001_005.png,1,train
+train\not-good\slice001_006.png,1,train
+train\not-good\slice001_007.png,1,train
+train\not-good\slice001_008.png,1,train
+train\not-good\slice001_009.png,1,train
+train\not-good\slice001_011.png,1,train
+train\not-good\slice001_012.png,1,train
+train\not-good\slice001_013.png,1,train
+train\not-good\slice001_015.png,1,train
+train\not-good\slice002_000.png,1,train
+train\not-good\slice002_001.png,1,train
+train\not-good\slice002_003.png,1,train
+train\not-good\slice002_005.png,1,train
+train\not-good\slice002_006.png,1,train
+train\not-good\slice002_007.png,1,train
+train\not-good\slice002_008.png,1,train
+train\not-good\slice002_011.png,1,train
+train\not-good\slice002_012.png,1,train
+train\not-good\slice002_013.png,1,train
+train\not-good\slice002_014.png,1,train
+train\not-good\slice002_015.png,1,train
+train\not-good\slice003_000.png,1,train
+train\not-good\slice003_001.png,1,train
+train\not-good\slice003_002.png,1,train
+train\not-good\slice003_004.png,1,train
+train\not-good\slice003_005.png,1,train
+train\not-good\slice003_006.png,1,train
+train\not-good\slice003_007.png,1,train
+train\not-good\slice003_008.png,1,train
+train\not-good\slice003_009.png,1,train
+train\not-good\slice003_010.png,1,train
+train\not-good\slice003_011.png,1,train
+train\not-good\slice003_012.png,1,train
+train\not-good\slice003_013.png,1,train
+train\not-good\slice003_014.png,1,train
+train\not-good\slice003_015.png,1,train
+train\not-good\slice004_000.png,1,train
+train\not-good\slice004_001.png,1,train
+train\not-good\slice004_003.png,1,train
+train\not-good\slice004_005.png,1,train
+train\not-good\slice004_006.png,1,train
+train\not-good\slice004_007.png,1,train
+train\not-good\slice004_008.png,1,train
+train\not-good\slice004_011.png,1,train
+train\not-good\slice004_013.png,1,train
+train\not-good\slice004_014.png,1,train
+train\not-good\slice004_015.png,1,train
+train\not-good\slice005_000.png,1,train
+train\not-good\slice005_001.png,1,train
+train\not-good\slice005_002.png,1,train
+train\not-good\slice005_004.png,1,train
+train\not-good\slice005_007.png,1,train
+train\not-good\slice005_008.png,1,train
+train\not-good\slice005_013.png,1,train
+train\not-good\slice009_000.png,1,train
+train\not-good\slice009_001.png,1,train
+train\not-good\slice009_003.png,1,train
+train\not-good\slice009_004.png,1,train
+train\not-good\slice009_005.png,1,train
+train\not-good\slice009_007.png,1,train
+train\not-good\slice009_008.png,1,train
+train\not-good\slice009_009.png,1,train
+train\not-good\slice009_010.png,1,train
+train\not-good\slice009_011.png,1,train
+train\not-good\slice010_000.png,1,train
+train\not-good\slice010_001.png,1,train
+train\not-good\slice010_002.png,1,train
+train\not-good\slice010_003.png,1,train
+train\not-good\slice010_004.png,1,train
+train\not-good\slice010_006.png,1,train
+train\not-good\slice010_007.png,1,train
+train\not-good\slice010_009.png,1,train
+train\not-good\slice010_010.png,1,train
+train\not-good\slice010_011.png,1,train
+train\not-good\slice011_003.png,1,train
+train\not-good\slice012_001.png,1,train
+train\not-good\slice012_002.png,1,train
+train\not-good\slice012_003.png,1,train
+train\not-good\slice012_004.png,1,train
+train\not-good\slice012_005.png,1,train
+train\not-good\slice012_006.png,1,train
+train\not-good\slice012_007.png,1,train
+train\not-good\slice012_010.png,1,train
+train\not-good\slice012_011.png,1,train
+train\not-good\slice012_014.png,1,train
+train\not-good\slice012_015.png,1,train
+train\not-good\slice013_000.png,1,train
+train\not-good\slice013_001.png,1,train
+train\not-good\slice013_002.png,1,train
+train\not-good\slice013_003.png,1,train
+train\not-good\slice013_004.png,1,train
+train\not-good\slice013_005.png,1,train
+train\not-good\slice013_006.png,1,train
+train\not-good\slice013_007.png,1,train
+train\not-good\slice013_009.png,1,train
+train\not-good\slice013_010.png,1,train
+train\not-good\slice013_011.png,1,train
+train\not-good\slice013_013.png,1,train
+train\not-good\slice013_015.png,1,train
+train\not-good\slice014_000.png,1,train
+train\not-good\slice014_001.png,1,train
+train\not-good\slice014_002.png,1,train
+train\not-good\slice014_003.png,1,train
+train\not-good\slice014_004.png,1,train
+train\not-good\slice014_005.png,1,train
+train\not-good\slice014_007.png,1,train
+train\not-good\slice014_008.png,1,train
+train\not-good\slice014_010.png,1,train
+train\not-good\slice014_011.png,1,train
+train\not-good\slice014_012.png,1,train
+train\not-good\slice014_013.png,1,train
+train\not-good\slice014_014.png,1,train
+train\not-good\slice014_015.png,1,train
+train\not-good\slice015_001.png,1,train
+train\not-good\slice015_004.png,1,train
+train\not-good\slice015_006.png,1,train
+train\not-good\slice015_008.png,1,train
+train\not-good\slice015_009.png,1,train
+train\not-good\slice015_010.png,1,train
+train\not-good\slice015_013.png,1,train
+train\not-good\slice016_001.png,1,train
+train\not-good\slice016_002.png,1,train
+train\not-good\slice016_003.png,1,train
+train\not-good\slice016_004.png,1,train
+train\not-good\slice016_005.png,1,train
+train\not-good\slice016_006.png,1,train
+train\not-good\slice016_007.png,1,train
+train\not-good\slice016_008.png,1,train
+train\not-good\slice016_009.png,1,train
+train\not-good\slice016_010.png,1,train
+train\not-good\slice016_013.png,1,train
+train\not-good\slice016_014.png,1,train
+train\not-good\slice016_015.png,1,train
+train\not-good\slice017_003.png,1,train
+train\not-good\slice017_005.png,1,train
+train\not-good\slice017_006.png,1,train
+train\not-good\slice017_007.png,1,train
+train\not-good\slice017_009.png,1,train
+train\not-good\slice017_011.png,1,train
+train\not-good\slice017_012.png,1,train
+train\not-good\slice017_015.png,1,train
+train\not-good\slice018_001.png,1,train
+train\not-good\slice018_002.png,1,train
+train\not-good\slice018_013.png,1,train
+train\not-good\slice018_014.png,1,train
+train\not-good\slice019_000.png,1,train
+train\not-good\slice019_001.png,1,train
+train\not-good\slice019_002.png,1,train
+train\not-good\slice019_003.png,1,train
+train\not-good\slice019_004.png,1,train
+train\not-good\slice019_006.png,1,train
+train\not-good\slice019_007.png,1,train
+train\not-good\slice019_008.png,1,train
+train\not-good\slice019_013.png,1,train
+train\not-good\slice019_014.png,1,train
+train\not-good\slice019_015.png,1,train
+train\not-good\slice020_000.png,1,train
+train\not-good\slice020_001.png,1,train
+train\not-good\slice020_002.png,1,train
+train\not-good\slice020_003.png,1,train
+train\not-good\slice020_004.png,1,train
+train\not-good\slice020_005.png,1,train
+train\not-good\slice020_006.png,1,train
+train\not-good\slice020_007.png,1,train
+train\not-good\slice020_009.png,1,train
+train\not-good\slice020_010.png,1,train
+train\not-good\slice020_011.png,1,train
+train\not-good\slice020_013.png,1,train
+train\not-good\slice020_014.png,1,train
+train\not-good\slice020_015.png,1,train
+train\not-good\slice021_011.png,1,train
+train\not-good\slice022_011.png,1,train
+train\not-good\slice024_006.png,1,train
+train\not-good\slice024_007.png,1,train
+train\not-good\slice024_008.png,1,train
+train\not-good\slice024_012.png,1,train
+train\not-good\slice024_013.png,1,train
+train\not-good\slice025_009.png,1,train
+train\not-good\slice025_010.png,1,train
+train\not-good\slice025_011.png,1,train
+train\not-good\slice025_012.png,1,train
+train\not-good\slice026_015.png,1,train
+train\not-good\slice027_001.png,1,train
+train\not-good\slice027_002.png,1,train
+train\not-good\slice027_004.png,1,train
+train\not-good\slice027_006.png,1,train
+train\not-good\slice027_007.png,1,train
+train\not-good\slice027_008.png,1,train
+train\not-good\slice027_009.png,1,train
+train\not-good\slice027_010.png,1,train
+train\not-good\slice027_011.png,1,train
+train\not-good\slice027_013.png,1,train
+train\not-good\slice027_014.png,1,train
+train\not-good\slice028_002.png,1,train
+train\not-good\slice028_003.png,1,train
+train\not-good\slice028_004.png,1,train
+train\not-good\slice028_005.png,1,train
+train\not-good\slice028_006.png,1,train
+train\not-good\slice028_007.png,1,train
+train\not-good\slice029_001.png,1,train
+train\not-good\slice029_002.png,1,train
+train\not-good\slice029_003.png,1,train
+train\not-good\slice029_004.png,1,train
+train\not-good\slice029_005.png,1,train
+train\not-good\slice029_007.png,1,train
+train\not-good\slice029_010.png,1,train
+train\not-good\slice031_003.png,1,train
+train\not-good\slice032_000.png,1,train
+train\not-good\slice032_005.png,1,train
+train\not-good\slice032_006.png,1,train
+train\not-good\slice033_009.png,1,train
+train\not-good\slice034_000.png,1,train
+train\not-good\slice034_001.png,1,train
+train\not-good\slice034_002.png,1,train
+train\not-good\slice034_003.png,1,train
+train\not-good\slice034_004.png,1,train
+train\not-good\slice034_005.png,1,train
+train\not-good\slice034_006.png,1,train
+train\not-good\slice034_007.png,1,train
+train\not-good\slice034_008.png,1,train
+train\not-good\slice034_010.png,1,train
+train\not-good\slice034_011.png,1,train
+train\not-good\slice034_012.png,1,train
+train\not-good\slice034_013.png,1,train
+train\not-good\slice034_014.png,1,train
+train\not-good\slice034_015.png,1,train
+train\not-good\slice035_003.png,1,train
+train\not-good\slice035_004.png,1,train
+train\not-good\slice035_006.png,1,train
+train\not-good\slice035_007.png,1,train
+train\not-good\slice035_008.png,1,train
+train\not-good\slice035_009.png,1,train
+train\not-good\slice035_010.png,1,train
+train\not-good\slice035_011.png,1,train
+train\not-good\slice035_012.png,1,train
+train\not-good\slice035_013.png,1,train
+train\not-good\slice036_000.png,1,train
+train\not-good\slice036_001.png,1,train
+train\not-good\slice036_002.png,1,train
+train\not-good\slice036_003.png,1,train
+train\not-good\slice036_004.png,1,train
+train\not-good\slice036_005.png,1,train
+train\not-good\slice036_006.png,1,train
+train\not-good\slice036_007.png,1,train
+train\not-good\slice036_008.png,1,train
+train\not-good\slice036_009.png,1,train
+train\not-good\slice036_010.png,1,train
+train\not-good\slice036_012.png,1,train
+train\not-good\slice036_013.png,1,train
+train\not-good\slice036_014.png,1,train
+train\not-good\slice036_015.png,1,train
+train\not-good\slice037_005.png,1,train
+train\not-good\slice037_007.png,1,train
+train\not-good\slice037_008.png,1,train
+train\not-good\slice037_009.png,1,train
+train\not-good\slice037_010.png,1,train
+train\not-good\slice037_011.png,1,train
+train\not-good\slice037_012.png,1,train
+train\not-good\slice037_013.png,1,train
+train\not-good\slice037_014.png,1,train
+train\not-good\slice037_015.png,1,train
+train\not-good\slice038_004.png,1,train
+train\not-good\slice038_005.png,1,train
+train\not-good\slice038_006.png,1,train
+train\not-good\slice038_008.png,1,train
+train\not-good\slice038_009.png,1,train
+train\not-good\slice038_010.png,1,train
+train\not-good\slice038_011.png,1,train
+train\not-good\slice038_012.png,1,train
+train\not-good\slice038_013.png,1,train
+train\not-good\slice038_014.png,1,train
+train\not-good\slice038_015.png,1,train
+train\not-good\slice039_008.png,1,train
+train\not-good\slice039_012.png,1,train
+train\not-good\slice040_015.png,1,train
+train\not-good\slice041_000.png,1,train
+train\not-good\slice041_001.png,1,train
+train\not-good\slice041_003.png,1,train
+train\not-good\slice041_004.png,1,train
+train\not-good\slice041_005.png,1,train
+train\not-good\slice041_007.png,1,train
+train\not-good\slice041_008.png,1,train
+train\not-good\slice041_009.png,1,train
+train\not-good\slice041_010.png,1,train
+train\not-good\slice041_011.png,1,train
+train\not-good\slice041_012.png,1,train
+train\not-good\slice041_013.png,1,train
+train\not-good\slice041_014.png,1,train
+train\not-good\slice041_015.png,1,train
+train\not-good\slice042_000.png,1,train
+train\not-good\slice042_001.png,1,train
+train\not-good\slice042_002.png,1,train
+train\not-good\slice042_004.png,1,train
+train\not-good\slice042_005.png,1,train
+train\not-good\slice042_006.png,1,train
+train\not-good\slice042_007.png,1,train
+train\not-good\slice042_008.png,1,train
+train\not-good\slice042_009.png,1,train
+train\not-good\slice042_010.png,1,train
+train\not-good\slice042_011.png,1,train
+train\not-good\slice042_012.png,1,train
+train\not-good\slice043_000.png,1,train
+train\not-good\slice043_001.png,1,train
+train\not-good\slice043_002.png,1,train
+train\not-good\slice043_003.png,1,train
+train\not-good\slice043_005.png,1,train
+train\not-good\slice043_006.png,1,train
+train\not-good\slice043_007.png,1,train
+train\not-good\slice043_008.png,1,train
+train\not-good\slice043_009.png,1,train
+train\not-good\slice043_010.png,1,train
+train\not-good\slice043_011.png,1,train
+train\not-good\slice043_014.png,1,train
+train\not-good\slice043_015.png,1,train
+train\not-good\slice044_000.png,1,train
+train\not-good\slice044_001.png,1,train
+train\not-good\slice044_002.png,1,train
+train\not-good\slice044_003.png,1,train
+train\not-good\slice044_005.png,1,train
+train\not-good\slice044_006.png,1,train
+train\not-good\slice044_007.png,1,train
+train\not-good\slice044_008.png,1,train
+train\not-good\slice044_009.png,1,train
+train\not-good\slice044_010.png,1,train
+train\not-good\slice044_011.png,1,train
+train\not-good\slice044_013.png,1,train
+train\not-good\slice044_015.png,1,train
+train\not-good\slice045_000.png,1,train
+train\not-good\slice045_001.png,1,train
+train\not-good\slice045_002.png,1,train
+train\not-good\slice045_004.png,1,train
+train\not-good\slice045_005.png,1,train
+train\not-good\slice045_006.png,1,train
+train\not-good\slice045_008.png,1,train
+train\not-good\slice045_009.png,1,train
+train\not-good\slice045_010.png,1,train
+train\not-good\slice045_012.png,1,train
+train\not-good\slice045_013.png,1,train
+train\not-good\slice045_015.png,1,train
+train\not-good\slice046_004.png,1,train
+train\not-good\slice046_006.png,1,train
+train\not-good\slice046_007.png,1,train
+train\not-good\slice046_008.png,1,train
+train\not-good\slice046_009.png,1,train
+train\not-good\slice046_011.png,1,train
+train\not-good\slice046_012.png,1,train
+train\not-good\slice046_013.png,1,train
+train\not-good\slice046_014.png,1,train
+train\not-good\slice046_015.png,1,train
+train\not-good\slice047_000.png,1,train
+train\not-good\slice047_001.png,1,train
+train\not-good\slice047_002.png,1,train
+train\not-good\slice047_003.png,1,train
+train\not-good\slice047_004.png,1,train
+train\not-good\slice047_007.png,1,train
+train\not-good\slice047_008.png,1,train
+train\not-good\slice047_009.png,1,train
+train\not-good\slice047_011.png,1,train
+train\not-good\slice047_012.png,1,train
+train\not-good\slice047_013.png,1,train
+train\not-good\slice047_014.png,1,train
+train\not-good\slice048_000.png,1,train
+train\not-good\slice048_004.png,1,train
+train\not-good\slice048_005.png,1,train
+train\not-good\slice048_006.png,1,train
+train\not-good\slice048_008.png,1,train
+train\not-good\slice048_009.png,1,train
+train\not-good\slice048_010.png,1,train
+train\not-good\slice048_013.png,1,train
+train\not-good\slice048_014.png,1,train
+train\not-good\slice048_015.png,1,train
+train\not-good\slice049_000.png,1,train
+train\not-good\slice049_001.png,1,train
+train\not-good\slice049_003.png,1,train
+train\not-good\slice049_005.png,1,train
+train\not-good\slice049_007.png,1,train
+train\not-good\slice049_010.png,1,train
+train\not-good\slice049_011.png,1,train
+train\not-good\slice049_012.png,1,train
+train\not-good\slice049_013.png,1,train
+train\not-good\slice049_014.png,1,train
+train\not-good\slice049_015.png,1,train
+train\not-good\slice050_000.png,1,train
+train\not-good\slice050_002.png,1,train
+train\not-good\slice050_003.png,1,train
+train\not-good\slice050_005.png,1,train
+train\not-good\slice050_006.png,1,train
+train\not-good\slice050_007.png,1,train
+train\not-good\slice050_008.png,1,train
+train\not-good\slice050_009.png,1,train
+train\not-good\slice050_011.png,1,train
+train\not-good\slice050_013.png,1,train
+train\not-good\slice050_014.png,1,train
+train\not-good\slice050_015.png,1,train
+train\not-good\slice053_000.png,1,train
+train\not-good\slice053_001.png,1,train
+train\not-good\slice053_002.png,1,train
+train\not-good\slice053_003.png,1,train
+train\not-good\slice053_004.png,1,train
+train\not-good\slice053_005.png,1,train
+train\not-good\slice053_006.png,1,train
+train\not-good\slice053_010.png,1,train
+train\not-good\slice053_011.png,1,train
+train\not-good\slice053_015.png,1,train
+train\not-good\slice054_000.png,1,train
+train\not-good\slice054_001.png,1,train
+train\not-good\slice054_002.png,1,train
+train\not-good\slice054_004.png,1,train
+train\not-good\slice054_005.png,1,train
+train\not-good\slice054_006.png,1,train
+train\not-good\slice054_007.png,1,train
+train\not-good\slice054_008.png,1,train
+train\not-good\slice054_009.png,1,train
+train\not-good\slice054_013.png,1,train
+train\not-good\slice054_014.png,1,train
+train\not-good\slice054_015.png,1,train
+train\not-good\slice055_008.png,1,train
+train\not-good\slice057_004.png,1,train
+train\not-good\slice057_006.png,1,train
+train\not-good\slice057_008.png,1,train
+train\not-good\slice057_009.png,1,train
+train\not-good\slice057_010.png,1,train
+train\not-good\slice057_011.png,1,train
+train\not-good\slice057_012.png,1,train
+train\not-good\slice057_014.png,1,train
+train\not-good\slice057_015.png,1,train
+train\not-good\slice058_005.png,1,train
+train\not-good\slice058_006.png,1,train
+train\not-good\slice058_007.png,1,train
+train\not-good\slice058_008.png,1,train
+train\not-good\slice059_004.png,1,train
+train\not-good\slice059_005.png,1,train
+train\not-good\slice059_009.png,1,train
+train\not-good\slice059_010.png,1,train
+train\not-good\slice059_011.png,1,train
+train\not-good\slice060_008.png,1,train
+train\not-good\slice060_009.png,1,train
+train\not-good\slice060_012.png,1,train
+train\not-good\slice060_013.png,1,train
+train\not-good\slice060_014.png,1,train
+train\not-good\slice061_008.png,1,train
+train\not-good\slice061_009.png,1,train
+train\not-good\slice061_012.png,1,train
+train\not-good\slice061_013.png,1,train
+train\not-good\slice061_014.png,1,train
+train\not-good\Slice_Bad (1).png,1,train
+train\not-good\Slice_Bad (10).png,1,train
+train\not-good\Slice_Bad (100).png,1,train
+train\not-good\Slice_Bad (101).png,1,train
+train\not-good\Slice_Bad (102).png,1,train
+train\not-good\Slice_Bad (103).png,1,train
+train\not-good\Slice_Bad (104).png,1,train
+train\not-good\Slice_Bad (105).png,1,train
+train\not-good\Slice_Bad (106).png,1,train
+train\not-good\Slice_Bad (107).png,1,train
+train\not-good\Slice_Bad (109).png,1,train
+train\not-good\Slice_Bad (11).png,1,train
+train\not-good\Slice_Bad (110).png,1,train
+train\not-good\Slice_Bad (12).png,1,train
+train\not-good\Slice_Bad (122).png,1,train
+train\not-good\Slice_Bad (123).png,1,train
+train\not-good\Slice_Bad (124).png,1,train
+train\not-good\Slice_Bad (125).png,1,train
+train\not-good\Slice_Bad (126).png,1,train
+train\not-good\Slice_Bad (127).png,1,train
+train\not-good\Slice_Bad (128).png,1,train
+train\not-good\Slice_Bad (129).png,1,train
+train\not-good\Slice_Bad (13).png,1,train
+train\not-good\Slice_Bad (130).png,1,train
+train\not-good\Slice_Bad (131).png,1,train
+train\not-good\Slice_Bad (132).png,1,train
+train\not-good\Slice_Bad (133).png,1,train
+train\not-good\Slice_Bad (134).png,1,train
+train\not-good\Slice_Bad (135).png,1,train
+train\not-good\Slice_Bad (136).png,1,train
+train\not-good\Slice_Bad (137).png,1,train
+train\not-good\Slice_Bad (138).png,1,train
+train\not-good\Slice_Bad (139).png,1,train
+train\not-good\Slice_Bad (14).png,1,train
+train\not-good\Slice_Bad (140).png,1,train
+train\not-good\Slice_Bad (141).png,1,train
+train\not-good\Slice_Bad (142).png,1,train
+train\not-good\Slice_Bad (143).png,1,train
+train\not-good\Slice_Bad (144).png,1,train
+train\not-good\Slice_Bad (145).png,1,train
+train\not-good\Slice_Bad (146).png,1,train
+train\not-good\Slice_Bad (147).png,1,train
+train\not-good\Slice_Bad (148).png,1,train
+train\not-good\Slice_Bad (149).png,1,train
+train\not-good\Slice_Bad (15).png,1,train
+train\not-good\Slice_Bad (150).png,1,train
+train\not-good\Slice_Bad (151).png,1,train
+train\not-good\Slice_Bad (152).png,1,train
+train\not-good\Slice_Bad (153).png,1,train
+train\not-good\Slice_Bad (154).png,1,train
+train\not-good\Slice_Bad (155).png,1,train
+train\not-good\Slice_Bad (16).png,1,train
+train\not-good\Slice_Bad (162).png,1,train
+train\not-good\Slice_Bad (163).png,1,train
+train\not-good\Slice_Bad (164).png,1,train
+train\not-good\Slice_Bad (165).png,1,train
+train\not-good\Slice_Bad (166).png,1,train
+train\not-good\Slice_Bad (17).png,1,train
+train\not-good\Slice_Bad (18).png,1,train
+train\not-good\Slice_Bad (181).png,1,train
+train\not-good\Slice_Bad (19).png,1,train
+train\not-good\Slice_Bad (193).png,1,train
+train\not-good\Slice_Bad (2).png,1,train
+train\not-good\Slice_Bad (20).png,1,train
+train\not-good\Slice_Bad (209).png,1,train
+train\not-good\Slice_Bad (21).png,1,train
+train\not-good\Slice_Bad (212).png,1,train
+train\not-good\Slice_Bad (213).png,1,train
+train\not-good\Slice_Bad (214).png,1,train
+train\not-good\Slice_Bad (215).png,1,train
+train\not-good\Slice_Bad (216).png,1,train
+train\not-good\Slice_Bad (217).png,1,train
+train\not-good\Slice_Bad (218).png,1,train
+train\not-good\Slice_Bad (219).png,1,train
+train\not-good\Slice_Bad (22).png,1,train
+train\not-good\Slice_Bad (220).png,1,train
+train\not-good\Slice_Bad (221).png,1,train
+train\not-good\Slice_Bad (222).png,1,train
+train\not-good\Slice_Bad (223).png,1,train
+train\not-good\Slice_Bad (224).png,1,train
+train\not-good\Slice_Bad (225).png,1,train
+train\not-good\Slice_Bad (226).png,1,train
+train\not-good\Slice_Bad (227).png,1,train
+train\not-good\Slice_Bad (228).png,1,train
+train\not-good\Slice_Bad (229).png,1,train
+train\not-good\Slice_Bad (23).png,1,train
+train\not-good\Slice_Bad (230).png,1,train
+train\not-good\Slice_Bad (231).png,1,train
+train\not-good\Slice_Bad (232).png,1,train
+train\not-good\Slice_Bad (234).png,1,train
+train\not-good\Slice_Bad (235).png,1,train
+train\not-good\Slice_Bad (236).png,1,train
+train\not-good\Slice_Bad (238).png,1,train
+train\not-good\Slice_Bad (239).png,1,train
+train\not-good\Slice_Bad (24).png,1,train
+train\not-good\Slice_Bad (240).png,1,train
+train\not-good\Slice_Bad (241).png,1,train
+train\not-good\Slice_Bad (242).png,1,train
+train\not-good\Slice_Bad (243).png,1,train
+train\not-good\Slice_Bad (244).png,1,train
+train\not-good\Slice_Bad (247).png,1,train
+train\not-good\Slice_Bad (248).png,1,train
+train\not-good\Slice_Bad (249).png,1,train
+train\not-good\Slice_Bad (25).png,1,train
+train\not-good\Slice_Bad (250).png,1,train
+train\not-good\Slice_Bad (251).png,1,train
+train\not-good\Slice_Bad (252).png,1,train
+train\not-good\Slice_Bad (253).png,1,train
+train\not-good\Slice_Bad (254).png,1,train
+train\not-good\Slice_Bad (256).png,1,train
+train\not-good\Slice_Bad (257).png,1,train
+train\not-good\Slice_Bad (258).png,1,train
+train\not-good\Slice_Bad (259).png,1,train
+train\not-good\Slice_Bad (26).png,1,train
+train\not-good\Slice_Bad (260).png,1,train
+train\not-good\Slice_Bad (261).png,1,train
+train\not-good\Slice_Bad (262).png,1,train
+train\not-good\Slice_Bad (263).png,1,train
+train\not-good\Slice_Bad (264).png,1,train
+train\not-good\Slice_Bad (266).png,1,train
+train\not-good\Slice_Bad (267).png,1,train
+train\not-good\Slice_Bad (268).png,1,train
+train\not-good\Slice_Bad (269).png,1,train
+train\not-good\Slice_Bad (27).png,1,train
+train\not-good\Slice_Bad (270).png,1,train
+train\not-good\Slice_Bad (271).png,1,train
+train\not-good\Slice_Bad (272).png,1,train
+train\not-good\Slice_Bad (28).png,1,train
+train\not-good\Slice_Bad (29).png,1,train
+train\not-good\Slice_Bad (3).png,1,train
+train\not-good\Slice_Bad (30).png,1,train
+train\not-good\Slice_Bad (31).png,1,train
+train\not-good\Slice_Bad (32).png,1,train
+train\not-good\Slice_Bad (33).png,1,train
+train\not-good\Slice_Bad (34).png,1,train
+train\not-good\Slice_Bad (35).png,1,train
+train\not-good\Slice_Bad (36).png,1,train
+train\not-good\Slice_Bad (37).png,1,train
+train\not-good\Slice_Bad (38).png,1,train
+train\not-good\Slice_Bad (39).png,1,train
+train\not-good\Slice_Bad (4).png,1,train
+train\not-good\Slice_Bad (40).png,1,train
+train\not-good\Slice_Bad (41).png,1,train
+train\not-good\Slice_Bad (42).png,1,train
+train\not-good\Slice_Bad (43).png,1,train
+train\not-good\Slice_Bad (44).png,1,train
+train\not-good\Slice_Bad (45).png,1,train
+train\not-good\Slice_Bad (46).png,1,train
+train\not-good\Slice_Bad (47).png,1,train
+train\not-good\Slice_Bad (48).png,1,train
+train\not-good\Slice_Bad (49).png,1,train
+train\not-good\Slice_Bad (5).png,1,train
+train\not-good\Slice_Bad (50).png,1,train
+train\not-good\Slice_Bad (51).png,1,train
+train\not-good\Slice_Bad (52).png,1,train
+train\not-good\Slice_Bad (53).png,1,train
+train\not-good\Slice_Bad (54).png,1,train
+train\not-good\Slice_Bad (55).png,1,train
+train\not-good\Slice_Bad (56).png,1,train
+train\not-good\Slice_Bad (57).png,1,train
+train\not-good\Slice_Bad (58).png,1,train
+train\not-good\Slice_Bad (59).png,1,train
+train\not-good\Slice_Bad (6).png,1,train
+train\not-good\Slice_Bad (60).png,1,train
+train\not-good\Slice_Bad (61).png,1,train
+train\not-good\Slice_Bad (62).png,1,train
+train\not-good\Slice_Bad (63).png,1,train
+train\not-good\Slice_Bad (64).png,1,train
+train\not-good\Slice_Bad (66).png,1,train
+train\not-good\Slice_Bad (67).png,1,train
+train\not-good\Slice_Bad (68).png,1,train
+train\not-good\Slice_Bad (69).png,1,train
+train\not-good\Slice_Bad (7).png,1,train
+train\not-good\Slice_Bad (70).png,1,train
+train\not-good\Slice_Bad (71).png,1,train
+train\not-good\Slice_Bad (72).png,1,train
+train\not-good\Slice_Bad (73).png,1,train
+train\not-good\Slice_Bad (74).png,1,train
+train\not-good\Slice_Bad (75).png,1,train
+train\not-good\Slice_Bad (76).png,1,train
+train\not-good\Slice_Bad (77).png,1,train
+train\not-good\Slice_Bad (78).png,1,train
+train\not-good\Slice_Bad (79).png,1,train
+train\not-good\Slice_Bad (8).png,1,train
+train\not-good\Slice_Bad (80).png,1,train
+train\not-good\Slice_Bad (81).png,1,train
+train\not-good\Slice_Bad (82).png,1,train
+train\not-good\Slice_Bad (83).png,1,train
+train\not-good\Slice_Bad (84).png,1,train
+train\not-good\Slice_Bad (85).png,1,train
+train\not-good\Slice_Bad (86).png,1,train
+train\not-good\Slice_Bad (9).png,1,train
+train\not-good\Slice_Bad (90).png,1,train
+train\not-good\Slice_Bad (91).png,1,train
+train\not-good\Slice_Bad (92).png,1,train
+train\not-good\Slice_Bad (93).png,1,train
+train\not-good\Slice_Bad (94).png,1,train
+train\not-good\Slice_Bad (95).png,1,train
+train\not-good\Slice_Bad (96).png,1,train
+train\not-good\Slice_Bad (97).png,1,train
+train\not-good\Slice_Bad (98).png,1,train
+train\not-good\Slice_Bad (99).png,1,train
+train\good\slice000_000.png,0,train
+train\good\slice000_001.png,0,train
+train\good\slice000_003.png,0,train
+train\good\slice000_004.png,0,train
+train\good\slice000_005.png,0,train
+train\good\slice000_007.png,0,train
+train\good\slice000_008.png,0,train
+train\good\slice000_009.png,0,train
+train\good\slice000_011.png,0,train
+train\good\slice000_012.png,0,train
+train\good\slice000_013.png,0,train
+train\good\slice000_014.png,0,train
+train\good\slice000_015.png,0,train
+train\good\slice001_000.png,0,train
+train\good\slice001_001.png,0,train
+train\good\slice001_002.png,0,train
+train\good\slice001_003.png,0,train
+train\good\slice001_004.png,0,train
+train\good\slice001_005.png,0,train
+train\good\slice001_006.png,0,train
+train\good\slice001_007.png,0,train
+train\good\slice001_009.png,0,train
+train\good\slice001_010.png,0,train
+train\good\slice001_011.png,0,train
+train\good\slice001_012.png,0,train
+train\good\slice001_013.png,0,train
+train\good\slice002_000.png,0,train
+train\good\slice002_001.png,0,train
+train\good\slice002_002.png,0,train
+train\good\slice002_003.png,0,train
+train\good\slice002_004.png,0,train
+train\good\slice002_005.png,0,train
+train\good\slice002_006.png,0,train
+train\good\slice002_008.png,0,train
+train\good\slice002_010.png,0,train
+train\good\slice002_011.png,0,train
+train\good\slice002_013.png,0,train
+train\good\slice002_014.png,0,train
+train\good\slice002_015.png,0,train
+train\good\slice003_000.png,0,train
+train\good\slice003_002.png,0,train
+train\good\slice003_003.png,0,train
+train\good\slice003_004.png,0,train
+train\good\slice003_005.png,0,train
+train\good\slice003_009.png,0,train
+train\good\slice003_010.png,0,train
+train\good\slice003_011.png,0,train
+train\good\slice003_013.png,0,train
+train\good\slice003_014.png,0,train
+train\good\slice004_000.png,0,train
+train\good\slice004_002.png,0,train
+train\good\slice004_003.png,0,train
+train\good\slice004_004.png,0,train
+train\good\slice004_007.png,0,train
+train\good\slice004_009.png,0,train
+train\good\slice004_010.png,0,train
+train\good\slice004_011.png,0,train
+train\good\slice004_015.png,0,train
+train\good\slice005_000.png,0,train
+train\good\slice005_002.png,0,train
+train\good\slice005_003.png,0,train
+train\good\slice005_004.png,0,train
+train\good\slice005_005.png,0,train
+train\good\slice005_007.png,0,train
+train\good\slice005_008.png,0,train
+train\good\slice005_009.png,0,train
+train\good\slice005_011.png,0,train
+train\good\slice005_012.png,0,train
+train\good\slice005_013.png,0,train
+train\good\slice005_014.png,0,train
+train\good\slice005_015.png,0,train
+train\good\slice006_000.png,0,train
+train\good\slice006_001.png,0,train
+train\good\slice006_002.png,0,train
+train\good\slice006_003.png,0,train
+train\good\slice006_004.png,0,train
+train\good\slice006_006.png,0,train
+train\good\slice006_007.png,0,train
+train\good\slice006_008.png,0,train
+train\good\slice006_009.png,0,train
+train\good\slice006_010.png,0,train
+train\good\slice006_011.png,0,train
+train\good\slice006_014.png,0,train
+train\good\slice006_015.png,0,train
+train\good\slice007_000.png,0,train
+train\good\slice007_001.png,0,train
+train\good\slice007_002.png,0,train
+train\good\slice007_003.png,0,train
+train\good\slice007_004.png,0,train
+train\good\slice007_005.png,0,train
+train\good\slice007_007.png,0,train
+train\good\slice007_009.png,0,train
+train\good\slice007_010.png,0,train
+train\good\slice007_011.png,0,train
+train\good\slice007_012.png,0,train
+train\good\slice007_013.png,0,train
+train\good\slice007_014.png,0,train
+train\good\slice007_015.png,0,train
+train\good\slice008_000.png,0,train
+train\good\slice008_001.png,0,train
+train\good\slice008_002.png,0,train
+train\good\slice008_006.png,0,train
+train\good\slice008_009.png,0,train
+train\good\slice008_010.png,0,train
+train\good\slice008_011.png,0,train
+train\good\slice008_012.png,0,train
+train\good\slice008_013.png,0,train
+train\good\slice008_014.png,0,train
+train\good\slice008_015.png,0,train
+train\good\slice009_000.png,0,train
+train\good\slice009_002.png,0,train
+train\good\slice009_003.png,0,train
+train\good\slice009_005.png,0,train
+train\good\slice009_006.png,0,train
+train\good\slice009_007.png,0,train
+train\good\slice009_008.png,0,train
+train\good\slice009_009.png,0,train
+train\good\slice009_010.png,0,train
+train\good\slice009_012.png,0,train
+train\good\slice009_013.png,0,train
+train\good\slice009_015.png,0,train
+train\good\slice010_000.png,0,train
+train\good\slice010_001.png,0,train
+train\good\slice010_002.png,0,train
+train\good\slice010_003.png,0,train
+train\good\slice010_006.png,0,train
+train\good\slice010_007.png,0,train
+train\good\slice010_008.png,0,train
+train\good\slice010_009.png,0,train
+train\good\slice010_010.png,0,train
+train\good\slice010_011.png,0,train
+train\good\slice010_012.png,0,train
+train\good\slice010_013.png,0,train
+train\good\slice010_014.png,0,train
+train\good\slice010_015.png,0,train
+train\good\slice011_001.png,0,train
+train\good\slice011_002.png,0,train
+train\good\slice011_003.png,0,train
+train\good\slice011_004.png,0,train
+train\good\slice011_005.png,0,train
+train\good\slice011_007.png,0,train
+train\good\slice011_008.png,0,train
+train\good\slice011_009.png,0,train
+train\good\slice011_010.png,0,train
+train\good\slice011_011.png,0,train
+train\good\slice011_012.png,0,train
+train\good\slice011_013.png,0,train
+train\good\slice011_014.png,0,train
+train\good\slice011_015.png,0,train
+train\good\slice012_001.png,0,train
+train\good\slice012_002.png,0,train
+train\good\slice012_003.png,0,train
+train\good\slice012_004.png,0,train
+train\good\slice012_005.png,0,train
+train\good\slice012_006.png,0,train
+train\good\slice012_008.png,0,train
+train\good\slice012_009.png,0,train
+train\good\slice012_010.png,0,train
+train\good\slice012_011.png,0,train
+train\good\slice012_012.png,0,train
+train\good\slice012_013.png,0,train
+train\good\slice012_014.png,0,train
+train\good\slice012_015.png,0,train
+train\good\slice013_000.png,0,train
+train\good\slice013_001.png,0,train
+train\good\slice013_006.png,0,train
+train\good\slice013_007.png,0,train
+train\good\slice013_008.png,0,train
+train\good\slice013_009.png,0,train
+train\good\slice013_010.png,0,train
+train\good\slice013_011.png,0,train
+train\good\slice013_013.png,0,train
+train\good\slice013_014.png,0,train
+train\good\slice014_000.png,0,train
+train\good\slice014_001.png,0,train
+train\good\slice014_002.png,0,train
+train\good\slice014_004.png,0,train
+train\good\slice014_005.png,0,train
+train\good\slice014_006.png,0,train
+train\good\slice014_008.png,0,train
+train\good\slice014_009.png,0,train
+train\good\slice014_010.png,0,train
+train\good\slice014_012.png,0,train
+train\good\slice014_013.png,0,train
+train\good\slice014_014.png,0,train
+train\good\slice014_015.png,0,train
+train\good\slice015_000.png,0,train
+train\good\slice015_001.png,0,train
+train\good\slice015_002.png,0,train
+train\good\slice015_003.png,0,train
+train\good\slice015_005.png,0,train
+train\good\slice015_006.png,0,train
+train\good\slice015_011.png,0,train
+train\good\slice015_012.png,0,train
+train\good\slice015_013.png,0,train
+train\good\slice015_014.png,0,train
+train\good\slice015_015.png,0,train
+train\good\slice016_002.png,0,train
+train\good\slice016_003.png,0,train
+train\good\slice016_004.png,0,train
+train\good\slice016_005.png,0,train
+train\good\slice016_006.png,0,train
+train\good\slice016_007.png,0,train
+train\good\slice016_009.png,0,train
+train\good\slice016_010.png,0,train
+train\good\slice016_011.png,0,train
+train\good\slice016_012.png,0,train
+train\good\slice016_013.png,0,train
+train\good\slice016_014.png,0,train
+train\good\slice016_015.png,0,train
+train\good\slice017_000.png,0,train
+train\good\slice017_001.png,0,train
+train\good\slice017_002.png,0,train
+train\good\slice017_003.png,0,train
+train\good\slice017_004.png,0,train
+train\good\slice017_006.png,0,train
+train\good\slice017_007.png,0,train
+train\good\slice017_008.png,0,train
+train\good\slice017_010.png,0,train
+train\good\slice017_011.png,0,train
+train\good\slice017_013.png,0,train
+train\good\slice017_015.png,0,train
+train\good\slice018_000.png,0,train
+train\good\slice018_002.png,0,train
+train\good\slice018_003.png,0,train
+train\good\slice018_004.png,0,train
+train\good\slice018_005.png,0,train
+train\good\slice018_007.png,0,train
+train\good\slice018_009.png,0,train
+train\good\slice018_010.png,0,train
+train\good\slice018_011.png,0,train
+train\good\slice018_012.png,0,train
+train\good\slice018_013.png,0,train
+train\good\slice018_015.png,0,train
+train\good\slice019_000.png,0,train
+train\good\slice019_001.png,0,train
+train\good\slice019_002.png,0,train
+train\good\slice019_003.png,0,train
+train\good\slice019_004.png,0,train
+train\good\slice019_005.png,0,train
+train\good\slice019_007.png,0,train
+train\good\slice019_008.png,0,train
+train\good\slice019_009.png,0,train
+train\good\slice019_010.png,0,train
+train\good\slice019_011.png,0,train
+train\good\slice019_012.png,0,train
+train\good\slice019_013.png,0,train
+train\good\slice019_015.png,0,train
+train\good\slice020_002.png,0,train
+train\good\slice020_003.png,0,train
+train\good\slice020_004.png,0,train
+train\good\slice020_005.png,0,train
+train\good\slice020_006.png,0,train
+train\good\slice020_008.png,0,train
+train\good\slice020_009.png,0,train
+train\good\slice020_010.png,0,train
+train\good\slice020_011.png,0,train
+train\good\slice020_012.png,0,train
+train\good\slice021_001.png,0,train
+train\good\slice021_002.png,0,train
+train\good\slice021_003.png,0,train
+train\good\slice021_004.png,0,train
+train\good\slice021_007.png,0,train
+train\good\slice021_008.png,0,train
+train\good\slice021_009.png,0,train
+train\good\slice021_010.png,0,train
+train\good\slice021_011.png,0,train
+train\good\slice021_012.png,0,train
+train\good\slice021_013.png,0,train
+train\good\slice021_014.png,0,train
+train\good\slice021_015.png,0,train
+train\good\slice022_000.png,0,train
+train\good\slice022_005.png,0,train
+train\good\slice022_006.png,0,train
+train\good\slice022_007.png,0,train
+train\good\slice022_010.png,0,train
+train\good\slice022_011.png,0,train
+train\good\slice022_012.png,0,train
+train\good\slice022_013.png,0,train
+train\good\slice022_014.png,0,train
+train\good\slice022_015.png,0,train
+train\good\slice023_000.png,0,train
+train\good\slice023_001.png,0,train
+train\good\slice023_002.png,0,train
+train\good\slice023_003.png,0,train
+train\good\slice023_004.png,0,train
+train\good\slice023_005.png,0,train
+train\good\slice023_006.png,0,train
+train\good\slice023_007.png,0,train
+train\good\slice023_008.png,0,train
+train\good\slice023_009.png,0,train
+train\good\slice023_010.png,0,train
+train\good\slice023_011.png,0,train
+train\good\slice023_012.png,0,train
+train\good\slice023_014.png,0,train
+train\good\slice023_015.png,0,train
+train\good\slice024_000.png,0,train
+train\good\slice024_001.png,0,train
+train\good\slice024_002.png,0,train
+train\good\slice024_003.png,0,train
+train\good\slice024_004.png,0,train
+train\good\slice024_005.png,0,train
+train\good\slice024_006.png,0,train
+train\good\slice024_007.png,0,train
+train\good\slice024_008.png,0,train
+train\good\slice024_009.png,0,train
+train\good\slice024_010.png,0,train
+train\good\slice024_011.png,0,train
+train\good\slice024_013.png,0,train
+train\good\slice024_014.png,0,train
+train\good\slice024_015.png,0,train
+train\good\slice025_000.png,0,train
+train\good\slice025_001.png,0,train
+train\good\slice025_002.png,0,train
+train\good\slice025_003.png,0,train
+train\good\slice025_005.png,0,train
+train\good\slice025_006.png,0,train
+train\good\slice025_007.png,0,train
+train\good\slice025_008.png,0,train
+train\good\slice025_010.png,0,train
+train\good\slice025_011.png,0,train
+train\good\slice025_013.png,0,train
+train\good\slice025_014.png,0,train
+train\good\slice025_015.png,0,train
+train\good\slice026_000.png,0,train
+train\good\slice026_001.png,0,train
+train\good\slice026_002.png,0,train
+train\good\slice026_003.png,0,train
+train\good\slice026_004.png,0,train
+train\good\slice026_005.png,0,train
+train\good\slice026_006.png,0,train
+train\good\slice026_007.png,0,train
+train\good\slice026_008.png,0,train
+train\good\slice026_009.png,0,train
+train\good\slice026_010.png,0,train
+train\good\slice026_011.png,0,train
+train\good\slice026_012.png,0,train
+train\good\slice026_013.png,0,train
+train\good\slice026_014.png,0,train
+train\good\slice026_015.png,0,train
+train\good\slice027_000.png,0,train
+train\good\slice027_001.png,0,train
+train\good\slice027_002.png,0,train
+train\good\slice027_003.png,0,train
+train\good\slice027_004.png,0,train
+train\good\slice027_005.png,0,train
+train\good\slice027_006.png,0,train
+train\good\slice027_008.png,0,train
+train\good\slice027_009.png,0,train
+train\good\slice027_010.png,0,train
+train\good\slice027_011.png,0,train
+train\good\slice027_012.png,0,train
+train\good\slice027_013.png,0,train
+train\good\slice027_014.png,0,train
+train\good\slice027_015.png,0,train
+train\good\slice028_000.png,0,train
+train\good\slice028_001.png,0,train
+train\good\slice028_002.png,0,train
+train\good\slice028_004.png,0,train
+train\good\slice028_005.png,0,train
+train\good\slice028_006.png,0,train
+train\good\slice028_007.png,0,train
+train\good\slice028_008.png,0,train
+train\good\slice028_009.png,0,train
+train\good\slice028_010.png,0,train
+train\good\slice028_011.png,0,train
+train\good\slice028_012.png,0,train
+train\good\slice028_013.png,0,train
+train\good\slice028_014.png,0,train
+train\good\slice028_015.png,0,train
+train\good\slice029_000.png,0,train
+train\good\slice029_001.png,0,train
+train\good\slice029_002.png,0,train
+train\good\slice029_003.png,0,train
+train\good\slice029_005.png,0,train
+train\good\slice029_006.png,0,train
+train\good\slice029_007.png,0,train
+train\good\slice029_008.png,0,train
+train\good\slice029_009.png,0,train
+train\good\slice029_010.png,0,train
+train\good\slice029_011.png,0,train
+train\good\slice029_012.png,0,train
+train\good\slice029_014.png,0,train
+train\good\slice029_015.png,0,train
+train\good\slice030_000.png,0,train
+train\good\slice030_002.png,0,train
+train\good\slice030_003.png,0,train
+train\good\slice030_004.png,0,train
+train\good\slice030_005.png,0,train
+train\good\slice030_006.png,0,train
+train\good\slice030_007.png,0,train
+train\good\slice030_008.png,0,train
+train\good\slice030_009.png,0,train
+train\good\slice030_011.png,0,train
+train\good\slice030_012.png,0,train
+train\good\slice030_013.png,0,train
+train\good\slice030_014.png,0,train
+train\good\slice030_015.png,0,train
+train\good\slice031_000.png,0,train
+train\good\slice031_001.png,0,train
+train\good\slice031_002.png,0,train
+train\good\slice031_004.png,0,train
+train\good\slice031_006.png,0,train
+train\good\slice031_007.png,0,train
+train\good\slice031_008.png,0,train
+train\good\slice031_009.png,0,train
+train\good\slice031_011.png,0,train
+train\good\slice031_012.png,0,train
+train\good\slice031_013.png,0,train
+train\good\slice031_014.png,0,train
+train\good\slice031_015.png,0,train
+train\good\slice032_001.png,0,train
+train\good\slice032_002.png,0,train
+train\good\slice032_003.png,0,train
+train\good\slice032_004.png,0,train
+train\good\slice032_006.png,0,train
+train\good\slice032_007.png,0,train
+train\good\slice032_008.png,0,train
+train\good\slice032_009.png,0,train
+train\good\slice032_010.png,0,train
+train\good\slice032_012.png,0,train
+train\good\slice032_013.png,0,train
+train\good\slice032_015.png,0,train
+train\good\slice033_001.png,0,train
+train\good\slice033_002.png,0,train
+train\good\slice033_003.png,0,train
+train\good\slice033_004.png,0,train
+train\good\slice033_005.png,0,train
+train\good\slice033_006.png,0,train
+train\good\slice033_008.png,0,train
+train\good\slice033_009.png,0,train
+train\good\slice033_010.png,0,train
+train\good\slice033_011.png,0,train
+train\good\slice033_012.png,0,train
+train\good\slice033_013.png,0,train
+train\good\slice033_014.png,0,train
+train\good\slice033_015.png,0,train
+train\good\slice034_000.png,0,train
+train\good\slice034_002.png,0,train
+train\good\slice034_003.png,0,train
+train\good\slice034_004.png,0,train
+train\good\slice034_005.png,0,train
+train\good\slice034_006.png,0,train
+train\good\slice034_007.png,0,train
+train\good\slice034_008.png,0,train
+train\good\slice034_009.png,0,train
+train\good\slice034_010.png,0,train
+train\good\slice034_011.png,0,train
+train\good\slice034_012.png,0,train
+train\good\slice034_013.png,0,train
+train\good\slice034_014.png,0,train
+train\good\slice034_015.png,0,train
+train\good\slice035_000.png,0,train
+train\good\slice035_001.png,0,train
+train\good\slice035_002.png,0,train
+train\good\slice035_003.png,0,train
+train\good\slice035_004.png,0,train
+train\good\slice035_005.png,0,train
+train\good\slice035_006.png,0,train
+train\good\slice035_009.png,0,train
+train\good\slice035_010.png,0,train
+train\good\slice035_011.png,0,train
+train\good\slice035_012.png,0,train
+train\good\slice035_013.png,0,train
+train\good\slice035_015.png,0,train
+train\good\slice036_000.png,0,train
+train\good\slice036_001.png,0,train
+train\good\slice036_002.png,0,train
+train\good\slice036_003.png,0,train
+train\good\slice036_004.png,0,train
+train\good\slice036_005.png,0,train
+train\good\slice036_006.png,0,train
+train\good\slice036_007.png,0,train
+train\good\slice036_008.png,0,train
+train\good\slice036_010.png,0,train
+train\good\slice036_011.png,0,train
+train\good\slice036_012.png,0,train
+train\good\slice036_013.png,0,train
+train\good\slice036_014.png,0,train
+train\good\slice036_015.png,0,train
+train\good\slice037_000.png,0,train
+train\good\slice037_003.png,0,train
+train\good\slice037_004.png,0,train
+train\good\slice037_005.png,0,train
+train\good\slice037_006.png,0,train
+train\good\slice037_007.png,0,train
+train\good\slice037_008.png,0,train
+train\good\slice037_009.png,0,train
+train\good\slice037_010.png,0,train
+train\good\slice037_011.png,0,train
+train\good\slice037_014.png,0,train
+train\good\slice037_015.png,0,train
+train\good\slice038_000.png,0,train
+train\good\slice038_001.png,0,train
+train\good\slice038_003.png,0,train
+train\good\slice038_004.png,0,train
+train\good\slice038_005.png,0,train
+train\good\slice038_006.png,0,train
+train\good\slice038_009.png,0,train
+train\good\slice038_011.png,0,train
+train\good\slice038_012.png,0,train
+train\good\slice038_013.png,0,train
+train\good\slice038_014.png,0,train
+train\good\slice039_000.png,0,train
+train\good\slice039_001.png,0,train
+train\good\slice039_002.png,0,train
+train\good\slice039_003.png,0,train
+train\good\slice039_004.png,0,train
+train\good\slice039_005.png,0,train
+train\good\slice039_007.png,0,train
+train\good\slice039_008.png,0,train
+train\good\slice039_009.png,0,train
+train\good\slice039_010.png,0,train
+train\good\slice039_011.png,0,train
+train\good\slice039_012.png,0,train
+train\good\slice039_013.png,0,train
+train\good\slice040_000.png,0,train
+train\good\slice040_001.png,0,train
+train\good\slice040_002.png,0,train
+train\good\slice040_003.png,0,train
+train\good\slice040_005.png,0,train
+train\good\slice040_006.png,0,train
+train\good\slice040_007.png,0,train
+train\good\slice040_009.png,0,train
+train\good\slice040_011.png,0,train
+train\good\slice040_012.png,0,train
+train\good\slice041_001.png,0,train
+train\good\slice041_002.png,0,train
+train\good\slice041_003.png,0,train
+train\good\slice041_005.png,0,train
+train\good\slice041_006.png,0,train
+train\good\slice041_007.png,0,train
+train\good\slice041_008.png,0,train
+train\good\slice041_009.png,0,train
+train\good\slice041_010.png,0,train
+train\good\slice041_011.png,0,train
+train\good\slice041_012.png,0,train
+train\good\slice041_015.png,0,train
+train\good\slice042_000.png,0,train
+train\good\slice042_001.png,0,train
+train\good\slice042_004.png,0,train
+train\good\slice042_005.png,0,train
+train\good\slice042_006.png,0,train
+train\good\slice042_007.png,0,train
+train\good\slice042_008.png,0,train
+train\good\slice042_009.png,0,train
+train\good\slice042_010.png,0,train
+train\good\slice042_013.png,0,train
+train\good\slice042_014.png,0,train
+train\good\slice042_015.png,0,train
+train\good\Slice_Good (1).png,0,train
+train\good\Slice_Good (10).png,0,train
+train\good\Slice_Good (100).png,0,train
+train\good\Slice_Good (101).png,0,train
+train\good\Slice_Good (102).png,0,train
+train\good\Slice_Good (103).png,0,train
+train\good\Slice_Good (104).png,0,train
+train\good\Slice_Good (105).png,0,train
+train\good\Slice_Good (106).png,0,train
+train\good\Slice_Good (107).png,0,train
+train\good\Slice_Good (108).png,0,train
+train\good\Slice_Good (109).png,0,train
+train\good\Slice_Good (11).png,0,train
+train\good\Slice_Good (110).png,0,train
+train\good\Slice_Good (111).png,0,train
+train\good\Slice_Good (112).png,0,train
+train\good\Slice_Good (113).png,0,train
+train\good\Slice_Good (114).png,0,train
+train\good\Slice_Good (115).png,0,train
+train\good\Slice_Good (116).png,0,train
+train\good\Slice_Good (117).png,0,train
+train\good\Slice_Good (118).png,0,train
+train\good\Slice_Good (119).png,0,train
+train\good\Slice_Good (12).png,0,train
+train\good\Slice_Good (120).png,0,train
+train\good\Slice_Good (121).png,0,train
+train\good\Slice_Good (122).png,0,train
+train\good\Slice_Good (123).png,0,train
+train\good\Slice_Good (124).png,0,train
+train\good\Slice_Good (125).png,0,train
+train\good\Slice_Good (126).png,0,train
+train\good\Slice_Good (127).png,0,train
+train\good\Slice_Good (128).png,0,train
+train\good\Slice_Good (129).png,0,train
+train\good\Slice_Good (13).png,0,train
+train\good\Slice_Good (130).png,0,train
+train\good\Slice_Good (131).png,0,train
+train\good\Slice_Good (132).png,0,train
+train\good\Slice_Good (133).png,0,train
+train\good\Slice_Good (134).png,0,train
+train\good\Slice_Good (135).png,0,train
+train\good\Slice_Good (136).png,0,train
+train\good\Slice_Good (137).png,0,train
+train\good\Slice_Good (138).png,0,train
+train\good\Slice_Good (139).png,0,train
+train\good\Slice_Good (14).png,0,train
+train\good\Slice_Good (140).png,0,train
+train\good\Slice_Good (141).png,0,train
+train\good\Slice_Good (142).png,0,train
+train\good\Slice_Good (143).png,0,train
+train\good\Slice_Good (144).png,0,train
+train\good\Slice_Good (145).png,0,train
+train\good\Slice_Good (146).png,0,train
+train\good\Slice_Good (147).png,0,train
+train\good\Slice_Good (148).png,0,train
+train\good\Slice_Good (149).png,0,train
+train\good\Slice_Good (15).png,0,train
+train\good\Slice_Good (150).png,0,train
+train\good\Slice_Good (151).png,0,train
+train\good\Slice_Good (152).png,0,train
+train\good\Slice_Good (153).png,0,train
+train\good\Slice_Good (154).png,0,train
+train\good\Slice_Good (155).png,0,train
+train\good\Slice_Good (156).png,0,train
+train\good\Slice_Good (157).png,0,train
+train\good\Slice_Good (158).png,0,train
+train\good\Slice_Good (159).png,0,train
+train\good\Slice_Good (16).png,0,train
+train\good\Slice_Good (160).png,0,train
+train\good\Slice_Good (161).png,0,train
+train\good\Slice_Good (162).png,0,train
+train\good\Slice_Good (163).png,0,train
+train\good\Slice_Good (164).png,0,train
+train\good\Slice_Good (165).png,0,train
+train\good\Slice_Good (166).png,0,train
+train\good\Slice_Good (167).png,0,train
+train\good\Slice_Good (168).png,0,train
+train\good\Slice_Good (169).png,0,train
+train\good\Slice_Good (17).png,0,train
+train\good\Slice_Good (170).png,0,train
+train\good\Slice_Good (171).png,0,train
+train\good\Slice_Good (172).png,0,train
+train\good\Slice_Good (173).png,0,train
+train\good\Slice_Good (174).png,0,train
+train\good\Slice_Good (175).png,0,train
+train\good\Slice_Good (176).png,0,train
+train\good\Slice_Good (177).png,0,train
+train\good\Slice_Good (178).png,0,train
+train\good\Slice_Good (179).png,0,train
+train\good\Slice_Good (18).png,0,train
+train\good\Slice_Good (180).png,0,train
+train\good\Slice_Good (181).png,0,train
+train\good\Slice_Good (182).png,0,train
+train\good\Slice_Good (183).png,0,train
+train\good\Slice_Good (184).png,0,train
+train\good\Slice_Good (185).png,0,train
+train\good\Slice_Good (186).png,0,train
+train\good\Slice_Good (187).png,0,train
+train\good\Slice_Good (188).png,0,train
+train\good\Slice_Good (189).png,0,train
+train\good\Slice_Good (19).png,0,train
+train\good\Slice_Good (190).png,0,train
+train\good\Slice_Good (191).png,0,train
+train\good\Slice_Good (192).png,0,train
+train\good\Slice_Good (193).png,0,train
+train\good\Slice_Good (194).png,0,train
+train\good\Slice_Good (195).png,0,train
+train\good\Slice_Good (196).png,0,train
+train\good\Slice_Good (197).png,0,train
+train\good\Slice_Good (198).png,0,train
+train\good\Slice_Good (199).png,0,train
+train\good\Slice_Good (2).png,0,train
+train\good\Slice_Good (20).png,0,train
+train\good\Slice_Good (200).png,0,train
+train\good\Slice_Good (21).png,0,train
+train\good\Slice_Good (22).png,0,train
+train\good\Slice_Good (23).png,0,train
+train\good\Slice_Good (24).png,0,train
+train\good\Slice_Good (25).png,0,train
+train\good\Slice_Good (26).png,0,train
+train\good\Slice_Good (27).png,0,train
+train\good\Slice_Good (28).png,0,train
+train\good\Slice_Good (29).png,0,train
+train\good\Slice_Good (3).png,0,train
+train\good\Slice_Good (30).png,0,train
+train\good\Slice_Good (31).png,0,train
+train\good\Slice_Good (32).png,0,train
+train\good\Slice_Good (33).png,0,train
+train\good\Slice_Good (34).png,0,train
+train\good\Slice_Good (35).png,0,train
+train\good\Slice_Good (36).png,0,train
+train\good\Slice_Good (37).png,0,train
+train\good\Slice_Good (38).png,0,train
+train\good\Slice_Good (39).png,0,train
+train\good\Slice_Good (4).png,0,train
+train\good\Slice_Good (40).png,0,train
+train\good\Slice_Good (41).png,0,train
+train\good\Slice_Good (42).png,0,train
+train\good\Slice_Good (43).png,0,train
+train\good\Slice_Good (44).png,0,train
+train\good\Slice_Good (45).png,0,train
+train\good\Slice_Good (46).png,0,train
+train\good\Slice_Good (47).png,0,train
+train\good\Slice_Good (48).png,0,train
+train\good\Slice_Good (49).png,0,train
+train\good\Slice_Good (5).png,0,train
+train\good\Slice_Good (50).png,0,train
+train\good\Slice_Good (51).png,0,train
+train\good\Slice_Good (52).png,0,train
+train\good\Slice_Good (53).png,0,train
+train\good\Slice_Good (54).png,0,train
+train\good\Slice_Good (55).png,0,train
+train\good\Slice_Good (56).png,0,train
+train\good\Slice_Good (57).png,0,train
+train\good\Slice_Good (58).png,0,train
+train\good\Slice_Good (59).png,0,train
+train\good\Slice_Good (6).png,0,train
+train\good\Slice_Good (60).png,0,train
+train\good\Slice_Good (61).png,0,train
+train\good\Slice_Good (62).png,0,train
+train\good\Slice_Good (63).png,0,train
+train\good\Slice_Good (64).png,0,train
+train\good\Slice_Good (65).png,0,train
+train\good\Slice_Good (66).png,0,train
+train\good\Slice_Good (67).png,0,train
+train\good\Slice_Good (68).png,0,train
+train\good\Slice_Good (69).png,0,train
+train\good\Slice_Good (7).png,0,train
+train\good\Slice_Good (70).png,0,train
+train\good\Slice_Good (71).png,0,train
+train\good\Slice_Good (72).png,0,train
+train\good\Slice_Good (73).png,0,train
+train\good\Slice_Good (74).png,0,train
+train\good\Slice_Good (75).png,0,train
+train\good\Slice_Good (76).png,0,train
+train\good\Slice_Good (77).png,0,train
+train\good\Slice_Good (78).png,0,train
+train\good\Slice_Good (79).png,0,train
+train\good\Slice_Good (8).png,0,train
+train\good\Slice_Good (80).png,0,train
+train\good\Slice_Good (81).png,0,train
+train\good\Slice_Good (82).png,0,train
+train\good\Slice_Good (83).png,0,train
+train\good\Slice_Good (84).png,0,train
+train\good\Slice_Good (85).png,0,train
+train\good\Slice_Good (86).png,0,train
+train\good\Slice_Good (87).png,0,train
+train\good\Slice_Good (88).png,0,train
+train\good\Slice_Good (89).png,0,train
+train\good\Slice_Good (9).png,0,train
+train\good\Slice_Good (90).png,0,train
+train\good\Slice_Good (91).png,0,train
+train\good\Slice_Good (92).png,0,train
+train\good\Slice_Good (93).png,0,train
+train\good\Slice_Good (94).png,0,train
+train\good\Slice_Good (95).png,0,train
+train\good\Slice_Good (96).png,0,train
+train\good\Slice_Good (97).png,0,train
+train\good\Slice_Good (98).png,0,train
+train\good\Slice_Good (99).png,0,train
+test\not-good\slice000_009.png,1,test
+test\not-good\slice000_014.png,1,test
+test\not-good\slice001_003.png,1,test
+test\not-good\slice001_004.png,1,test
+test\not-good\slice002_004.png,1,test
+test\not-good\slice002_009.png,1,test
+test\not-good\slice002_010.png,1,test
+test\not-good\slice003_003.png,1,test
+test\not-good\slice004_004.png,1,test
+test\not-good\slice004_009.png,1,test
+test\not-good\slice004_012.png,1,test
+test\not-good\slice005_003.png,1,test
+test\not-good\slice005_005.png,1,test
+test\not-good\slice005_006.png,1,test
+test\not-good\slice005_009.png,1,test
+test\not-good\slice005_010.png,1,test
+test\not-good\slice005_011.png,1,test
+test\not-good\slice005_012.png,1,test
+test\not-good\slice005_014.png,1,test
+test\not-good\slice005_015.png,1,test
+test\not-good\slice008_003.png,1,test
+test\not-good\slice009_002.png,1,test
+test\not-good\slice009_006.png,1,test
+test\not-good\slice010_005.png,1,test
+test\not-good\slice010_008.png,1,test
+test\not-good\slice011_007.png,1,test
+test\not-good\slice011_011.png,1,test
+test\not-good\slice012_009.png,1,test
+test\not-good\slice013_008.png,1,test
+test\not-good\slice013_012.png,1,test
+test\not-good\slice013_014.png,1,test
+test\not-good\slice014_006.png,1,test
+test\not-good\slice014_009.png,1,test
+test\not-good\slice015_000.png,1,test
+test\not-good\slice015_005.png,1,test
+test\not-good\slice015_012.png,1,test
+test\not-good\slice016_000.png,1,test
+test\not-good\slice016_011.png,1,test
+test\not-good\slice016_012.png,1,test
+test\not-good\slice017_001.png,1,test
+test\not-good\slice017_002.png,1,test
+test\not-good\slice017_004.png,1,test
+test\not-good\slice017_008.png,1,test
+test\not-good\slice017_013.png,1,test
+test\not-good\slice018_010.png,1,test
+test\not-good\slice019_005.png,1,test
+test\not-good\slice019_009.png,1,test
+test\not-good\slice019_010.png,1,test
+test\not-good\slice019_011.png,1,test
+test\not-good\slice023_007.png,1,test
+test\not-good\slice024_009.png,1,test
+test\not-good\slice025_008.png,1,test
+test\not-good\slice027_000.png,1,test
+test\not-good\slice027_003.png,1,test
+test\not-good\slice027_005.png,1,test
+test\not-good\slice027_015.png,1,test
+test\not-good\slice028_000.png,1,test
+test\not-good\slice028_001.png,1,test
+test\not-good\slice029_000.png,1,test
+test\not-good\slice029_006.png,1,test
+test\not-good\slice029_011.png,1,test
+test\not-good\slice032_003.png,1,test
+test\not-good\slice032_004.png,1,test
+test\not-good\slice033_005.png,1,test
+test\not-good\slice033_010.png,1,test
+test\not-good\slice033_011.png,1,test
+test\not-good\slice033_015.png,1,test
+test\not-good\slice034_009.png,1,test
+test\not-good\slice035_005.png,1,test
+test\not-good\slice035_014.png,1,test
+test\not-good\slice035_015.png,1,test
+test\not-good\slice036_011.png,1,test
+test\not-good\slice037_006.png,1,test
+test\not-good\slice039_004.png,1,test
+test\not-good\slice040_002.png,1,test
+test\not-good\slice040_011.png,1,test
+test\not-good\slice040_014.png,1,test
+test\not-good\slice041_006.png,1,test
+test\not-good\slice042_003.png,1,test
+test\not-good\slice043_004.png,1,test
+test\not-good\slice043_013.png,1,test
+test\not-good\slice044_004.png,1,test
+test\not-good\slice044_014.png,1,test
+test\not-good\slice045_014.png,1,test
+test\not-good\slice046_000.png,1,test
+test\not-good\slice046_005.png,1,test
+test\not-good\slice046_010.png,1,test
+test\not-good\slice047_005.png,1,test
+test\not-good\slice047_006.png,1,test
+test\not-good\slice047_010.png,1,test
+test\not-good\slice048_007.png,1,test
+test\not-good\slice048_012.png,1,test
+test\not-good\slice049_002.png,1,test
+test\not-good\slice049_008.png,1,test
+test\not-good\slice049_009.png,1,test
+test\not-good\slice050_004.png,1,test
+test\not-good\slice050_010.png,1,test
+test\not-good\slice050_012.png,1,test
+test\not-good\slice053_007.png,1,test
+test\not-good\slice053_014.png,1,test
+test\not-good\slice054_003.png,1,test
+test\not-good\slice054_010.png,1,test
+test\not-good\slice054_011.png,1,test
+test\not-good\slice054_012.png,1,test
+test\not-good\slice055_009.png,1,test
+test\not-good\slice057_007.png,1,test
+test\not-good\slice057_013.png,1,test
+test\not-good\slice058_001.png,1,test
+test\not-good\slice058_009.png,1,test
+test\not-good\slice058_010.png,1,test
+test\not-good\slice058_011.png,1,test
+test\not-good\slice059_008.png,1,test
+test\good\slice000_002.png,0,test
+test\good\slice000_006.png,0,test
+test\good\slice000_010.png,0,test
+test\good\slice001_008.png,0,test
+test\good\slice001_014.png,0,test
+test\good\slice001_015.png,0,test
+test\good\slice002_007.png,0,test
+test\good\slice002_009.png,0,test
+test\good\slice002_012.png,0,test
+test\good\slice003_001.png,0,test
+test\good\slice003_006.png,0,test
+test\good\slice003_007.png,0,test
+test\good\slice003_008.png,0,test
+test\good\slice003_012.png,0,test
+test\good\slice003_015.png,0,test
+test\good\slice004_001.png,0,test
+test\good\slice004_005.png,0,test
+test\good\slice004_006.png,0,test
+test\good\slice004_008.png,0,test
+test\good\slice004_012.png,0,test
+test\good\slice004_013.png,0,test
+test\good\slice004_014.png,0,test
+test\good\slice005_001.png,0,test
+test\good\slice005_006.png,0,test
+test\good\slice005_010.png,0,test
+test\good\slice006_005.png,0,test
+test\good\slice006_012.png,0,test
+test\good\slice006_013.png,0,test
+test\good\slice007_006.png,0,test
+test\good\slice007_008.png,0,test
+test\good\slice008_003.png,0,test
+test\good\slice008_004.png,0,test
+test\good\slice008_005.png,0,test
+test\good\slice008_007.png,0,test
+test\good\slice008_008.png,0,test
+test\good\slice009_001.png,0,test
+test\good\slice009_004.png,0,test
+test\good\slice009_011.png,0,test
+test\good\slice009_014.png,0,test
+test\good\slice010_004.png,0,test
+test\good\slice010_005.png,0,test
+test\good\slice011_000.png,0,test
+test\good\slice011_006.png,0,test
+test\good\slice012_000.png,0,test
+test\good\slice012_007.png,0,test
+test\good\slice013_002.png,0,test
+test\good\slice013_003.png,0,test
+test\good\slice013_004.png,0,test
+test\good\slice013_005.png,0,test
+test\good\slice013_012.png,0,test
+test\good\slice013_015.png,0,test
+test\good\slice014_003.png,0,test
+test\good\slice014_007.png,0,test
+test\good\slice014_011.png,0,test
+test\good\slice015_004.png,0,test
+test\good\slice015_007.png,0,test
+test\good\slice015_008.png,0,test
+test\good\slice015_009.png,0,test
+test\good\slice015_010.png,0,test
+test\good\slice016_000.png,0,test
+test\good\slice016_001.png,0,test
+test\good\slice016_008.png,0,test
+test\good\slice017_005.png,0,test
+test\good\slice017_009.png,0,test
+test\good\slice017_012.png,0,test
+test\good\slice017_014.png,0,test
+test\good\slice018_001.png,0,test
+test\good\slice018_006.png,0,test
+test\good\slice018_008.png,0,test
+test\good\slice018_014.png,0,test
+test\good\slice019_006.png,0,test
+test\good\slice019_014.png,0,test
+test\good\slice020_000.png,0,test
+test\good\slice020_001.png,0,test
+test\good\slice020_007.png,0,test
+test\good\slice020_013.png,0,test
+test\good\slice020_014.png,0,test
+test\good\slice020_015.png,0,test
+test\good\slice021_000.png,0,test
+test\good\slice021_005.png,0,test
+test\good\slice021_006.png,0,test
+test\good\slice022_001.png,0,test
+test\good\slice022_002.png,0,test
+test\good\slice022_003.png,0,test
+test\good\slice022_004.png,0,test
+test\good\slice022_008.png,0,test
+test\good\slice022_009.png,0,test
+test\good\slice023_013.png,0,test
+test\good\slice024_012.png,0,test
+test\good\slice025_004.png,0,test
+test\good\slice025_009.png,0,test
+test\good\slice025_012.png,0,test
+test\good\slice027_007.png,0,test
+test\good\slice028_003.png,0,test
+test\good\slice029_004.png,0,test
+test\good\slice029_013.png,0,test
+test\good\slice030_001.png,0,test
+test\good\slice030_010.png,0,test
+test\good\slice031_003.png,0,test
+test\good\slice031_005.png,0,test
+test\good\slice031_010.png,0,test
+test\good\slice032_000.png,0,test
+test\good\slice032_005.png,0,test
+test\good\slice032_011.png,0,test
+test\good\slice032_014.png,0,test
+test\good\slice033_000.png,0,test
+test\good\slice033_007.png,0,test
+test\good\slice034_001.png,0,test
+test\good\slice035_007.png,0,test
+test\good\slice035_008.png,0,test
+test\good\slice035_014.png,0,test
+test\good\slice036_009.png,0,test
+test\good\slice037_001.png,0,test
+test\good\slice037_002.png,0,test
+test\good\slice037_012.png,0,test
+test\good\slice037_013.png,0,test
+test\good\slice038_002.png,0,test
+test\good\slice038_007.png,0,test
+test\good\slice038_008.png,0,test
+test\good\slice038_010.png,0,test
+test\good\slice038_015.png,0,test
+test\good\slice039_006.png,0,test
+test\good\slice039_014.png,0,test
+test\good\slice039_015.png,0,test
+test\good\slice040_004.png,0,test
+test\good\slice040_008.png,0,test
+test\good\slice040_010.png,0,test
+test\good\slice040_013.png,0,test
+test\good\slice040_014.png,0,test
+test\good\slice040_015.png,0,test
+test\good\slice041_000.png,0,test
+test\good\slice041_004.png,0,test
+test\good\slice041_013.png,0,test
+test\good\slice041_014.png,0,test
+test\good\slice042_002.png,0,test
+test\good\slice042_003.png,0,test
+test\good\slice042_011.png,0,test
+test\good\slice042_012.png,0,test

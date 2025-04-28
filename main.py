@@ -9,14 +9,15 @@ from scripts.model import *
 from vit_pytorch.recorder import Recorder
 from vit_pytorch.extractor import Extractor
 
-# use segmentation techniques
-# how???
+# rn it's setup for testing only, comment on the appro sec of code to train too <3
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 if __name__ == '__main__':
   img_dir = 'linsen_data'
   annotations_file = 'linsen_data/annotations.csv'
 
-  BATCH_SIZE = 32
+  BATCH_SIZE = 2
   num_epochs = 5
 
   ds_train = ImageDataset(annotations_file=annotations_file, img_dir=img_dir, set_type='train')
@@ -25,22 +26,30 @@ if __name__ == '__main__':
   dl_train = DataLoader(ds_train, batch_size=BATCH_SIZE, shuffle=True)
   dl_test = DataLoader(ds_test, batch_size=BATCH_SIZE, shuffle=False)
 
-  model_config = {
-    'img_size' : (128, 128),
-    'embedding_dim' : 32,
-    'n_conv_layers' : 2,
-    'kernel_size' : 7,
-    'stride' : 2,
-    'padding' : 3,
-    'pooling_kernel_size' : 3,
-    'pooling_stride' : 2,
-    'pooling_padding' : 1,
-    'num_layers' : 4,
-    'num_heads' : 4,
-    'mlp_ratio' : 3.,
-    'num_classes' : 2,
-    'positional_embedding' : 'learnable'
-    }
+  # to create a new model
+  # model_config = {
+  #   'img_size' : (128, 128),
+  #   'embedding_dim' : 32,
+  #   'n_conv_layers' : 2,
+  #   'kernel_size' : 7,
+  #   'stride' : 2,
+  #   'padding' : 3,
+  #   'pooling_kernel_size' : 3,
+  #   'pooling_stride' : 2,
+  #   'pooling_padding' : 1,
+  #   'num_layers' : 4,
+  #   'num_heads' : 4,
+  #   'mlp_ratio' : 3.,
+  #   'num_classes' : 2,
+  #   'positional_embedding' : 'learnable'
+  #   }
+
+  model_name = 'model_6'
+
+  with open(f'models/cct/{model_name}/model_config.json', 'r') as f:
+    model_config = json.load(f)
+  model_config['img_size'] = tuple(model_config['img_size'])
+
 
   model = CCT(
     img_size = model_config['img_size'],
@@ -59,7 +68,7 @@ if __name__ == '__main__':
     positional_embedding = model_config['positional_embedding']
   )
 
-  model.load_state_dict(torch.load('models/vit/model.pth', weights_only=True))
+  model.load_state_dict(torch.load(f'models/cct/{model_name}/model.pth', weights_only=True))
           
   pytorch_total_params = sum(p.numel() for p in model.parameters())
   print(pytorch_total_params)
@@ -67,7 +76,7 @@ if __name__ == '__main__':
   optimizer = torch.optim.AdamW(params=model.parameters(), lr=0.001)
   loss_fn = torch.nn.CrossEntropyLoss()
 
-  accuracy = test_step(model, dl_test, loss_fn, 'cpu')[1]
+  accuracy = test_step(model, dl_test, loss_fn, device)[1]
 
   print(f'Accuracy: {accuracy:.4f}')
   
